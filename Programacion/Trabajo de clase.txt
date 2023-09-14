@@ -9,3 +9,6 @@ Accedemos al classroom y además vemos el indice.
  ------------
 
 Instalamos el eclipse, creamos el primer proyecto que lo llamamos uno, dlnde creamos la primera clase "holamundo".
+
+Por ultimo creamos la segunda clase hola amigo, donde mostrabamos nuestro nombre, creando el atributo "String nombre"
+y mostrando el mensaje por pantalla.

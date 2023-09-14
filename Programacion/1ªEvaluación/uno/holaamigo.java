@@ -15,7 +15,7 @@ public class holaamigo {
         System.out.println("Me llamo: ");
         nombre = sc.nextLine();
 
-        System.out.println("Encantado "+nombre+ " bienvenido");
+        System.out.println("Encantado "+nombre+ ", bienvenido");
 
 
 
