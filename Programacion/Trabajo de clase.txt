@@ -1,4 +1,11 @@
 PROGRAMACION.
-
-13/09/2023
+ ------------
+|#13/09/2023#|
+ ------------
 Accedemos al classroom y además vemos el indice.
+
+ ------------
+|#14/09/2023#|
+ ------------
+
+Instalamos el eclipse, creamos el primer proyecto que lo llamamos uno, dlnde creamos la primera clase "holamundo".
