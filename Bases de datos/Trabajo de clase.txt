@@ -1,4 +1,14 @@
-#13/09/2023#
-
+-------------
+|#13/09/2023#|
+--------------
 Classroom 2023
 Más teoria para comenzar
+
+-------------
+|#14/09/2023#|
+-------------
+Repaso de ficheros y tipo de ficheros de texto, también pasar de decimales a binario, y de binario a decimales.
+Tema de el sistema operativo y informacion sobre los discos duros y como fueron evoolucionando durante los años.
+
+Ejercicios de pasar de binario a decimal, de decimal a binario en el classroom.
+
