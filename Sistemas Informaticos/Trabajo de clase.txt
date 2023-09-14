@@ -1,4 +1,12 @@
-13/09/2023
-
+ -----------
+|#13/09/2023#|
+ -----------
 Presentación de la clase
 NO dimos nada de materia.
+
+ -----------
+|#14/09/2023#|
+ -----------
+Algo de teoria acerca de lo que son sistemas informaticos, lo que es el sistema y lo que es la información.
+También como en bases de datos, repasamos los binarios, con algunos atajos para sacar tanto el binario como el decimal
+mas cómodo.
