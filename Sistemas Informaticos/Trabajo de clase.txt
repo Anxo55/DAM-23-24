@@ -10,3 +10,20 @@ NO dimos nada de materia.
 Algo de teoria acerca de lo que son sistemas informaticos, lo que es el sistema y lo que es la información.
 También como en bases de datos, repasamos los binarios, con algunos atajos para sacar tanto el binario como el decimal
 mas cómodo.
+
+ -----------
+|#15/09/2023#|
+ -----------
+
+1 byte=8bits
+8byte=64bits
+4byte=32bits
+
+-Diferencias entre hardware y software, también acerca de los tipos de sistemas operativos(Linux, Windows, Unix, Mac, Android).
+-Tarjetas perforadas, ejemplos y que es: Laminas de cartulina, perforadas de forma que contienen informacion en codigo binario.
+
+Cuantos bits hay en un interruptor: Por cada uno de los interrupetores puede tener dos estados, pero tienen cada uno UN bit
+Por lo tanto, al tener 3 interruptores, tenemos 3 bits
+
+Con tres interruptores el byte seria: 2*2*2 = 8 = 2^3.
+ 
