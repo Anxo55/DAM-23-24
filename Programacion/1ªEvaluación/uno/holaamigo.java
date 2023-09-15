@@ -18,9 +18,6 @@ public class holaamigo {
         System.out.println("Encantado "+nombre+ ", bienvenido a DAM");
 
 
-
-
-
     }
     
 }

@@ -12,3 +12,14 @@ Instalamos el eclipse, creamos el primer proyecto que lo llamamos uno, dlnde cre
 
 Por ultimo creamos la segunda clase hola amigo, donde mostrabamos nuestro nombre, creando el atributo "String nombre"
 y mostrando el mensaje por pantalla.
+
+ ------------
+|#15/09/2023#|
+ ------------
+
+-Explicamos los string(de cadena, como los nombres, el apellido),
+-el int(los enteros como los numeros), los boolean(verdadero y falso),
+-los float(flotantes como 1,10),char(dato donde almacenamos un caracter, como la "a", el "7"),
+-double(puedo almacenar hasta 32 digitos), etc... 
+
+Para que sirve cada uno y en que se desarolla
