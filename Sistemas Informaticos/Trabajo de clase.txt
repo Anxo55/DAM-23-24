@@ -57,4 +57,7 @@ Con tres interruptores el byte seria: 2*2*2 = 8 = 2^3.
 			log2(128) = 7 bits.
 		* ¿Cuál es el valor máximo y mínimo de “velocity”?
 
+DARO CURIOSO PARA PROXIMO DIA: 
+		Cuantos bits puede tener un CODIGO QR.
+
  
