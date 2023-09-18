@@ -26,4 +26,35 @@ Cuantos bits hay en un interruptor: Por cada uno de los interrupetores puede ten
 Por lo tanto, al tener 3 interruptores, tenemos 3 bits
 
 Con tres interruptores el byte seria: 2*2*2 = 8 = 2^3.
+
+ -----------
+|#18/09/2023#|
+ -----------
+-Hablamos de Charles babbage
+-Ejercicios de calculo binario:
+	Preguntas:
+
+	-Tenemos una tarjeta perforada de 1000 personas con 10 categorías por persona.
+		* ¿Cuántos bits necesito para representar todos los estados posibles?
+		   	log2(estados posibles) = log2(10x1000) => log2(10000)=> 13,28=(14 bits)
+
+		* ¿Cuántos valores diferentes (memoria) puede almacenar esa hoja?
+			En base 2 con el total de los bits que tenemos sería:
+			(2^14=13.384)
+
+	-Tenemos un piano con 88 teclas (notas diferentes).
+		* ¿Cuántos bits necesitamos para representar todas?
+			Cada una de las teclas tiene dos estados, por lo tanto por cada tecla tenemos un bit,
+			en total tendriamos un total de 88 bits.
+
+		* Si utilizáramos las teclas del piano para representar información, ¿cuántos estados diferentes 
+		  podríamos representar? (contando que cada tecla puede estar o no pulsada, dando igual intensidad)
+			Estando pulsada o no, en total tenemos 88 bits, por lo tanto, teniendo en cuenta los bits,
+			Usando en base (2^88) serían los estados diferentes en los que podriamos representar.
+
+	-En el protocolo MIDI existen 128 diferentes intensidades de pulsación de tecla (se le llama velocity).
+		* ¿Cuántos bits necesito para representar las diferentes intensidades?
+			log2(128) = 7 bits.
+		* ¿Cuál es el valor máximo y mínimo de “velocity”?
+
  
