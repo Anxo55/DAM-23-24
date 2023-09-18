@@ -21,5 +21,15 @@ y mostrando el mensaje por pantalla.
 -el int(los enteros como los numeros), los boolean(verdadero y falso),
 -los float(flotantes como 1,10),char(dato donde almacenamos un caracter, como la "a", el "7"),
 -double(puedo almacenar hasta 32 digitos), etc... 
+-Para que sirve cada uno y en que se desarolla
+ ------------
+|#18/09/2023#|
+ ------------
+APARTADO 1.4 TIPOS Y DATOS SIMPLES
+-Vemos los tipos de datos (byte, short, int, long, char, float, double, boolean...)
+-Creamos la clase test donde comprobamos cada uno de los datos, lo probamos 
+mostrandolos por pantalla, y comentando de que va cada uno de ellos.
 
-Para que sirve cada uno y en que se desarolla
+APARTADO 1.5 CONSTANTES Y LITERALES
+-Probamos el metodo "final static double PI = 3.141592;"
+En este metodo tenemos que eliminar el static
