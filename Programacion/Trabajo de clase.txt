@@ -33,3 +33,12 @@ mostrandolos por pantalla, y comentando de que va cada uno de ellos.
 APARTADO 1.5 CONSTANTES Y LITERALES
 -Probamos el metodo "final static double PI = 3.141592;"
 En este metodo tenemos que eliminar el static
+
+ ------------
+|#19/09/2023#|
+ ------------
+
+-Entra de teoria para el examen lo del byte code(Programacion 1 pdf)
+-Hacemos la clase calculos donde sacamos la longitud y el area del circulo
+-Tambien hicimos la clase esfera, donde sacamos la superficie y la longitud
+-Por ultimo hacemos la clase cuadrado y rectangulo.
