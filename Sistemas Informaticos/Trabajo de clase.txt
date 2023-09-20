@@ -60,4 +60,9 @@ Con tres interruptores el byte seria: 2*2*2 = 8 = 2^3.
 DARO CURIOSO PARA PROXIMO DIA: 
 		Cuantos bits puede tener un CODIGO QR.
 
+ -----------
+|#20/09/2023#|
+ -----------
+Correcion del apartado 2.1 del ejercicio del piano
+
  

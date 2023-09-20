@@ -27,5 +27,9 @@ vista, informe, guiones o scripts, Procedimientos)
 -Practicas de modelo entidad-relacion
 -Usamos el programa DIA
 -Ejercicios del modelo entidad relacion, hecho hasta el 4 por el momento, los 3 primeros entendidos.
--Revisar el ejercicio 4 y preguntar si es necesario a ChatGPT para solucion
+-Revisar el ejercicio 4 y preguntar si es necesario a ChatGPT para solucion.
 
+ ------------
+|#20/09/2023#|
+ ------------
+termine el ejercicio 6 del primer word de ejercicios, despues hacer el segundo que ya está subido al classroom
