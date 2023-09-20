@@ -56,6 +56,9 @@ Con tres interruptores el byte seria: 2*2*2 = 8 = 2^3.
 		* ¿Cuántos bits necesito para representar las diferentes intensidades?
 			log2(128) = 7 bits.
 		* ¿Cuál es el valor máximo y mínimo de “velocity”?
+			min=0.
+			max=127
+
 
 DARO CURIOSO PARA PROXIMO DIA: 
 		Cuantos bits puede tener un CODIGO QR.
@@ -63,6 +66,21 @@ DARO CURIOSO PARA PROXIMO DIA:
  -----------
 |#20/09/2023#|
  -----------
-Correcion del apartado 2.1 del ejercicio del piano
+-Correcion del apartado 2.1 del ejercicio del pianot
+
+-127/128 intensidades distintas = 7 bits
+-129-256 intensidades distintas = 8 bits
+
+Sistema Hexadecimal:
+	Empieza de 0-9 a partir del 9 cuenta desde la A-F, y sería un total de (15)
+	FF=255
+	F7=1111 0111
+	8F=1000 1111
+	FE=1111 1110
+	F8=1111 1000
+
+	7F= 7x16^1 + 15x16^0
+
+
 
  
