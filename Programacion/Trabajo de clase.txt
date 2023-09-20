@@ -42,3 +42,12 @@ En este metodo tenemos que eliminar el static
 -Hacemos la clase calculos donde sacamos la longitud y el area del circulo
 -Tambien hicimos la clase esfera, donde sacamos la superficie y la longitud
 -Por ultimo hacemos la clase cuadrado y rectangulo.
+
+ ------------
+|#20/09/2023#|
+ ------------
+-Empezamos con el punto 1.6 acerca de las variables
+-Creamos la clase triangulo donde guardamos los tres lados, y mandamos un mensaje donde nos dice si se puede o no crear
+el triangulo.
+-Creo un metodo boolean donde meto el metodo para saber cuando puede ser triangulo, y lo creo el los if(else).
+-Creamos la clase bisiesto donde pedimos un año y nos dice si es bisiesto o no.
