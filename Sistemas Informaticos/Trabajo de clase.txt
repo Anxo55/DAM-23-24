@@ -81,6 +81,15 @@ Sistema Hexadecimal:
 
 	7F= 7x16^1 + 15x16^0
 
+ -----------
+|#21/09/2023#|
+ -----------
+	TB=10^12
+	GB=10^9
+	MB=10^6
+	KB=10^3
+-Tipos de lenguajes, tanto alto como bajo, java, lenguaje ensamblador, etc...
+
 
 
  
