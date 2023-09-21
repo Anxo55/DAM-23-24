@@ -22,6 +22,7 @@ public class sumaEntera {
         System.out.println("El cociente de la división es: " + cociente);
         System.out.println("El resto de la división es: " + resto);
 
+        System.out.println("Si divido " +numero1+ " entre " +numero2+ " da de cociente "+cociente+ " y de resto " +resto);
 
     }
     

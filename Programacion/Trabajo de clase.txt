@@ -55,4 +55,6 @@ el triangulo.
  ------------
 |#21/09/2023#|
  ------------
-Terminamos de dar el punto 1.6, y empezamos con el punto 1.7 que se trata de operadores y expresiones.
+-Terminamos de dar el punto 1.6, y empezamos con el punto 1.7 que se trata de operadores y expresiones.
+-Creamos la clase suma donde pedimos los dos numeros y hacemos la suma, despues creamos la clase test2.
+-Por ultimo creamos la clase sumarEntero donde pedimos dos numeros y nos da el cociente y el resto.
