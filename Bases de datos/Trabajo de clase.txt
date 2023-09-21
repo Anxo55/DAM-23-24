@@ -33,3 +33,12 @@ vista, informe, guiones o scripts, Procedimientos)
 |#20/09/2023#|
  ------------
 termine el ejercicio 6 del primer word de ejercicios, despues hacer el segundo que ya está subido al classroom
+
+ ------------
+|#21/09/2023#|
+ ------------
+-Correccion del primer boeltin de ejercicios de E/R
+-Corregimos el tercer ejercicio y el ejercicio cuatro
+-Despues hice los dos ultimos que mando en el pdf siguiente, donde tengo que corregir el primero por las entidades,
+que no muestra pero nos toca intuir para crearla y añadirla a labase de datos.
+-Terminar la practica 7 y la 8.
