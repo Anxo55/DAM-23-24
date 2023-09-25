@@ -90,6 +90,22 @@ Sistema Hexadecimal:
 	KB=10^3
 -Tipos de lenguajes, tanto alto como bajo, java, lenguaje ensamblador, etc...
 
+ -----------
+|#25/09/2023#|
+ -----------
+1TB = 
+1GB = 8x2^30
+1MB = 8x2^20
+1KB = 1024Bytes = 8x2^10 bits
+-¿Como leer un archivo en binario?
 
-
+-450KB = 450x8x2^10=3x10^6 bits
+-Hablamos con las maquinas en sistema hexadecimal.
+-¿cuantos colores se puedren representar?
+	*255x255x255=
+	*2^8x2^8x2^8
+-Descargamos una imagen de ada lovelace, donde lo abrimos en hexed.it, para ver como lo leeriamos en binario.
+-Entramos en la pagina dcode.fr donde tenemos informacion para leer archivos en binarios.
+-8hex = 4bytes.
+-TRABAJO:(Crear línea de tiempo cronológica con los elementos de la historia de las computadoras en Padlet)
  
