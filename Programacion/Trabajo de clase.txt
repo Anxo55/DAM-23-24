@@ -58,3 +58,23 @@ el triangulo.
 -Terminamos de dar el punto 1.6, y empezamos con el punto 1.7 que se trata de operadores y expresiones.
 -Creamos la clase suma donde pedimos los dos numeros y hacemos la suma, despues creamos la clase test2.
 -Por ultimo creamos la clase sumarEntero donde pedimos dos numeros y nos da el cociente y el resto.
+
+ ------------
+|#25/09/2023#|
+ ------------
+-Operadores logicos.
+	-En caso de que A y B sean los dos distintos en && es false, para que sea true tienen que ser igual tipo(1,1)
+	-En caso de que A y B sean los dos distintos en || es false, con que uno sea(1,0) serian true, solo hace falta que
+	uno sea positivo.
+-Operadores unitarios o unarios.
+
+-Operadores de asignación
+	-= A = B Asignación. Operador ya visto.
+	*= A *= B Multiplicación y asignación. La operación A*=B equivale a A=A*B.
+	/= A /= B División y asignación. La operación A/=B equivale a A=A/B.
+	%= A %= B Módulo y asignación. La operación A%=B equivale a A=A%B.
+	+= A += B Suma y asignación. La operación A+=B equivale a A=A+B.
+	-= A -= B Resta y asignación. La operación A-=B equivale a A=A-B.
+- Precedencia de operadores
+	
+	
