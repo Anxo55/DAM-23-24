@@ -1,0 +1,3 @@
+-joseluisgs en github
+
+-Mirar en un futuro con tiempo como hacer clases en java con el metodo swing, con el JOptionFrame

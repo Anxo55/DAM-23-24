@@ -77,4 +77,17 @@ el triangulo.
 	-= A -= B Resta y asignación. La operación A-=B equivale a A=A-B.
 - Precedencia de operadores
 	
-	
+ ------------
+|#26/09/2023#|
+ ------------
+-Empezamos con los ejercicios resueltos del pdf Programacion 1, la primera clase es la de getLetras, donde nos devuelve
+4 caracteres random de letras.	
+
+-En el primer resuelto generamos elo getLetras con el metodo char donde nos muestra letras de la A a la Z random
+usando un Math.random, si cambiamos el char por un int, los valores cambian de 97 a 122 por ser entereos, ya que
+la a=97 y la z=122.
+
+-Nos pidio hacer un metodo donde sacabamos 100 letras al azar.
+
+-Clase  ejercicioPrevioCies, donde pedimos por pantalla un caracter que almacena, despues sacamos los 100 caracteres
+random y al final lo recorre y cuenta las veces que salió dicho caracter.
