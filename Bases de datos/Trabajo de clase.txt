@@ -50,3 +50,18 @@ INTERPRETACIÓN DEL DISEÑO CONCEPTUAL DEL MODELO ENTIDAD/RELACIÓN
 -Todo sobre teoria, tambien seguimos con los ejercicios y demás
 -tipos de atributo, de relaciones y demas.
 
+ ------------
+|#26/09/2023#|
+ ------------
+-Empezamos con los tipos de cardinalidades,(uno a uno, uno a muchos, etc...).
+-EN un ejemplo de tabla de persona y coches, si la cardinalidad es de (1:n) el idPersona de la tabla persona,
+lo incluimos en la tabla de coches.
+
+-En el mismo ejemplo, si la cardinalidad es de n:m creamos una tabla nueva donde creamos el idPersona y el idCoche en una
+tabla distinta al ser de n:m.
+
+-Relaciones reflexivos(relacionadas por si mismo, como un delegado esta relacionado con alumno, ya que el delegado es 
+un alumno).
+
+-Entidades fuertes y debiles, para que existan las debiles dependen de las entidades fuertes.
+
