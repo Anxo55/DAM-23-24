@@ -63,5 +63,34 @@ tabla distinta al ser de n:m.
 -Relaciones reflexivos(relacionadas por si mismo, como un delegado esta relacionado con alumno, ya que el delegado es 
 un alumno).
 
--Entidades fuertes y debiles, para que existan las debiles dependen de las entidades fuertes.
+-Entidades fuertes y debiles, para que existan las debiles dependen de las entidades 
+
+------------
+|#28/09/2023#|
+ ------------
+-Teoria acerca de las relaciones n-arias, donde encontramos varias entidades dentro de la relacion.
+-Modelo E/R extendido.
+	
+	*Exclusiva (sin solapamiento): una ocurrencia de la entidad superconjunto es una ocurrencia 
+	de una y sólo una entidad subconjunto. (Jerarquía generalización). Se representa 
+	gráficamente con un arco que une todas las líneas que salen de la relación es_un. Ejemplo Los 
+	números, un número si es positivo no puede ser ni negativo ni cero, sólo pertenece a una 
+	subentidad.
+
+	*Inclusiva (con solapamiento): una ocurrencia de la entidad superconjunto puede ser una 
+	ocurrencia de varias entidades subconjunto a la vez (Jerarquía subconjunto). Se representa 
+	gráficamente sin poner el arco. Empresa según su propiedad puede ser Pública o Privada, pero 
+	hay empresas mixtas.
+
+	POR OTRA PARTE.
+
+	*Total (obligatoria): una ocurrencia de la entidad superconjunto obligatoriamente debe ser una 
+	ocurrencia de alguna entidad subconjunto. Se representa gráficamente con un círculo que se 
+	coloca sobre la relación es_un. Los números, un número es siempre o positivo o negativo o 
+	nulo. (Cuando en la entidad tenemos las entidades de niño, adolescente y así es total, ya que
+	pasas por cada etapa)
+
+	*Parcial (opcional): una ocurrencia de la entidad superconjunto puede no ser una ocurrencia 
+	de ninguna entidad subconjunto. Se representa gráficamente sin el círculo. (En este caso si tenemos la entidad
+	mascota y tenemos las subentidades de perro, gato, etc, sería parcial por que solo puede ser una de las dos).
 
