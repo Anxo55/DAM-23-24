@@ -91,3 +91,17 @@ la a=97 y la z=122.
 
 -Clase  ejercicioPrevioCies, donde pedimos por pantalla un caracter que almacena, despues sacamos los 100 caracteres
 random y al final lo recorre y cuenta las veces que salió dicho caracter.
+
+ ------------
+|#28/09/2023#|
+ ------------
+-Tras hacer los resueltos de previoCies y el resuelto 4, hicimos el resuelto 5 donde pedimos tres variables, donde
+pedimos la edad, el nivel de estudios y los ingresos, y pedimos por un booleano 3 metodos que se tienen que cumplir,
+con las variables para que sea true, sino es false.
+
+-Hacemos el propuesto 1 y hacemos un segundo llamado propuesto1b, en esta clase creamos un metodo sumar, pero creamos
+un constructor sumar y otro restar, que nos devuelve la suma y la resta de sus variables. 
+
+-Mando hacer un ejercicio donde escogeremos entre la opcion suma, resta o salir pero se pide por letra con el metodo
+switch.
+
