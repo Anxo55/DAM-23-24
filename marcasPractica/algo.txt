@@ -1,0 +1,1 @@
+-La etiqueta <pre> sirve para alinear tablas, como la de la liga, la premier, etc.

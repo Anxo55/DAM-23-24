@@ -108,4 +108,14 @@ Sistema Hexadecimal:
 -Entramos en la pagina dcode.fr donde tenemos informacion para leer archivos en binarios.
 -8hex = 4bytes.
 -TRABAJO:(Crear línea de tiempo cronológica con los elementos de la historia de las computadoras en Padlet)
- 
+
+ -----------
+|#28/09/2023#|
+ -----------
+-log^2(1024) = 10 bits.
+
+-log^10(2) = 0.3
+-bits = log^10(1024)x3.33 
+-bits = log(n) * 3,33
+
+-16,7 x 10^6 = (¿bits?)
