@@ -119,3 +119,11 @@ Sistema Hexadecimal:
 -bits = log(n) * 3,33
 
 -16,7 x 10^6 = (¿bits?)
+
+ -----------
+|#29/09/2023#|
+ -----------
+-Presentacion del trabajo de la cronologia de las computadoras.
+-Kahoot sobre los bits, bytes y la cronologia de los ordenadores.
+
+
