@@ -10,9 +10,10 @@ public class propuesto1c {
 
         int numero1, numero2;
         int operacion;
-        boolean seguir;
+        boolean seguir = true;
         
-
+        do { //bucle dowhile, donde repetimos el metodo hasta que sea false.
+            
         System.out.println("Dame el primer numero: ");
         numero1=sc.nextInt();
 
@@ -41,7 +42,7 @@ public class propuesto1c {
             System.out.println("Opcion no valida");
                 break;
         }
-
+            } while (seguir);
     }
 
     public static int sumar(int a, int b) {

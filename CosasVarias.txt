@@ -1,3 +1,7 @@
 -joseluisgs en github
 
 -Mirar en un futuro con tiempo como hacer clases en java con el metodo swing, con el JOptionFrame
+
+-Ver React y Angular.
+
+-Saber diferencias entre react y angular.
