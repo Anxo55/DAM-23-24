@@ -105,3 +105,12 @@ un constructor sumar y otro restar, que nos devuelve la suma y la resta de sus v
 -Mando hacer un ejercicio donde escogeremos entre la opcion suma, resta o salir pero se pide por letra con el metodo
 switch.
 
+ ------------
+|#29/09/2023#|
+ ------------
+-En la clase propuesto1c creamos el metodo switch, a mayores usamos el metodo do while que va haciendo el metodo
+repetidamente hasta que sea lo contrario. Lo iniciamos al principio cuando pedimos los enteros, despues se repetirá
+hasta que salga la opcion contraria y se termine el programa.
+
+-Para el bucle dowhile, creamos una variable boolean para instanciar el metodo, el cual meteremos en el metodo dowhile
+

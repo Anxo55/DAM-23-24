@@ -10,6 +10,8 @@ public class propuesto1c {
 
         int numero1, numero2;
         int operacion;
+        boolean seguir;
+        
 
         System.out.println("Dame el primer numero: ");
         numero1=sc.nextInt();
@@ -34,6 +36,7 @@ public class propuesto1c {
             case 'Q':
                 System.out.println("Saliendo del ejercicio...");    
             break;
+
             default:
             System.out.println("Opcion no valida");
                 break;
