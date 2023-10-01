@@ -2,12 +2,20 @@ body {
     background-color: black;
 }
 
-li{
-    color: white;
-    text-align: center;
-    text-decoration: none;
+.linkGeneral{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+  }
 
-}
+  .linkPequeño{
+    position: relative;
+    padding-bottom: 0.75rem;
+    color: white;
+    text-decoration: none;
+  }
+
 .imagenLogo{
     max-width: 100px;
 }
