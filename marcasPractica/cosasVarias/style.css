@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+li{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+}
+.imagenLogo{
+    max-width: 100px;
+}
