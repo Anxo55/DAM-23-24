@@ -126,4 +126,13 @@ Sistema Hexadecimal:
 -Presentacion del trabajo de la cronologia de las computadoras.
 -Kahoot sobre los bits, bytes y la cronologia de los ordenadores.
 
+ ----------
+|02/10/2023|
+ ----------
+-Dimos el tema de la elctricidad, la intensidad, el voltaje, como es el sentido de la corriente electrica.
+-Ley de On = V = IxR
+-I = V/R
+-I=5mA
+-1/RT = 1/R1 + 1/R2
+-Viendo las posiciones de las resistencias, saber cuando estan en serie o en paralelo.	909
 
