@@ -93,4 +93,8 @@ un alumno).
 	*Parcial (opcional): una ocurrencia de la entidad superconjunto puede no ser una ocurrencia 
 	de ninguna entidad subconjunto. Se representa gráficamente sin el círculo. (En este caso si tenemos la entidad
 	mascota y tenemos las subentidades de perro, gato, etc, sería parcial por que solo puede ser una de las dos).
+ ----------
+|02/10/2023|
+ ----------
+
 
