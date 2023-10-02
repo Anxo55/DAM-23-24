@@ -114,3 +114,9 @@ hasta que salga la opcion contraria y se termine el programa.
 
 -Para el bucle dowhile, creamos una variable boolean para instanciar el metodo, el cual meteremos en el metodo dowhile
 
+ ------------
+|#02/10/2023#|
+ ------------
+-Hicimos el propuesto 8 donde creamos una clase que nos diga wl porcentaje de vocales y demas, que nos diga si son 
+vocales o consonantes.
+-Repasarlo de nuevo con todos los metodos etc...
