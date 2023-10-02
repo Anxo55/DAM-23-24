@@ -96,5 +96,7 @@ un alumno).
  ----------
 |02/10/2023|
  ----------
+-Empezamos con ejercicios de la UD2, donde cuelga 5 pdfs para practicar
 
+-Antonio nos enseña la pagina web app.diagrams.net, para hacer diagramas
 
