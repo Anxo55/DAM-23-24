@@ -9,6 +9,10 @@ import java.util.Scanner;
 
 
 public class propuesto8 {
+    /**
+     * The main function generates random letters and determines if they are vowels or consonants, then
+     * calculates and prints the percentage of vowels.
+     */
     public static void main(String[] args) {
         int cantidadLetras = 1000;
         int cantidadVocales = 0; 
@@ -27,6 +31,11 @@ public class propuesto8 {
         System.out.println("El porcentaje de vocales es: " + porcentajeVocales + "%");
     }
 
+    /**
+     * The function generates a random lowercase letter.
+     * 
+     * @return The method is returning a randomly generated lowercase letter.
+     */
     public static char generarLetraAleatoria() {
         Random random = new Random();
         char letra;
@@ -36,6 +45,13 @@ public class propuesto8 {
         return letra;
     }
 
+    /**
+     * The function determines whether a given character is a vowel or a consonant.
+     * 
+     * @param letra The parameter "letra" is of type char and represents a single letter.
+     * @return The method is returning a String that indicates whether the given character is a vowel
+     * or a consonant.
+     */
     public static String determinarTipo(char letra) {
         String vocales = "aeiou";
 

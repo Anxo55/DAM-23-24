@@ -120,3 +120,9 @@ hasta que salga la opcion contraria y se termine el programa.
 -Hicimos el propuesto 8 donde creamos una clase que nos diga wl porcentaje de vocales y demas, que nos diga si son 
 vocales o consonantes.
 -Repasarlo de nuevo con todos los metodos etc...
+
+ ------------
+|#03/10/2023#|
+ ------------
+-Propuseto 11 y 12, explica el bucle while que mientras sea true vuelve y cuando sea false termina el programa.
+

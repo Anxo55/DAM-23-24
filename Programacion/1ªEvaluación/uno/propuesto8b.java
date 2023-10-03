@@ -28,7 +28,7 @@ public class propuesto8b {
                     break;
                     
                 default:
-                    System.out.println(+letras + " la letra es consonante");
+                    System.out.println(letras + " la letra es consonante");
                     break;
             }
 
