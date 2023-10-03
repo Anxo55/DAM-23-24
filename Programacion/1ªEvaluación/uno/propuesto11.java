@@ -3,7 +3,7 @@ package uno;
 import java.util.Scanner;
 
 // Realiza un programa con una variable entera t la cual contiene un tiempo en segundos y queremos conocer este 
-// tiempo pero expresado en horas, minutos y segundos.
+// tiempo pero expresado en dias, horas, minutos y segundos.
 
 public class propuesto11 {
 
@@ -21,19 +21,16 @@ public class propuesto11 {
         System.out.println("Dame el tiempo en segudnos: ");
         t=sc.nextInt();
 
-        segundos = t%60;
-
         // 1 minuto --> 60 segundos
         // X        --> 1000 segundos
-
-        minutos = (t/60)%60;
 
         // 1 hora --> 60 minutos
         // X      --> minutos de antes 
 
-        horas = t/3600;
-
-        dias = t%86400;
+        dias = t / (24 * 3600);
+        horas = (t % (24 * 3600)) / 3600;
+        minutos = ((t % (24 * 3600)) % 3600) / 60;
+        segundos = ((t % (24 * 3600)) % 3600) % 60;
 
         System.out.println("Los dias son: "+dias+ " dias");
         System.out.println("Las horas son: "+horas+ " horas");

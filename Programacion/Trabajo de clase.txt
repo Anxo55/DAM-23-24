@@ -125,4 +125,22 @@ vocales o consonantes.
 |#03/10/2023#|
  ------------
 -Propuseto 11 y 12, explica el bucle while que mientras sea true vuelve y cuando sea false termina el programa.
+-Visto bucle while, en caso de pedir un numero que sea <=5, nos pasará numeros que esten dentro del rango y el programa seguirá ejecutandose, si se pasa de 5 sale del bucle.
+-EJEMPLO:
+	public class while1 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		int numero=1;
+		
+		while(numero<=5) {
+			System.out.println("Pasame un entero");
+			numero = sc.nextInt();
+		}
+		
+	}
+
+}
+
 

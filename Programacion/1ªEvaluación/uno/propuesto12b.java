@@ -59,16 +59,16 @@ public class propuesto12b {
             cantidad -= 1;
          }
 
-         System.out.println("De 500" +billete500);
-         System.out.println("De 200" +billete200);
-         System.out.println("De 100" +billete100);
-         System.out.println("De 50" +billete50);
-         System.out.println("De 20" +billete20);
-         System.out.println("De 10" +billete10);
-         System.out.println("De 5" +billete5);
-         System.out.println("De 2" +moneda2);
-         System.out.println("De 1" +moneda1);
-         System.out.println("Cantidad" +cantidad);
+         System.out.println("De 500: " +billete500);
+         System.out.println("De 200: " +billete200);
+         System.out.println("De 100: " +billete100);
+         System.out.println("De 50: " +billete50);
+         System.out.println("De 20: " +billete20);
+         System.out.println("De 10: " +billete10);
+         System.out.println("De 5: " +billete5);
+         System.out.println("De 2: " +moneda2);
+         System.out.println("De 1: " +moneda1);
+         System.out.println("Cantidad: " +cantidad);
 
 
     
