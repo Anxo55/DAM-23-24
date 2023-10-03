@@ -100,3 +100,9 @@ un alumno).
 
 -Antonio nos enseña la pagina web app.diagrams.net, para hacer diagramas
 
+ ----------
+|03/10/2023|
+ ----------
+-Correccion de los ejercicios, segun los vamos corrigiendo los irá subiendo al classroom.
+-Intentar terminar los ejercicios que no corrija y repasasrlos de nuevo.
+
