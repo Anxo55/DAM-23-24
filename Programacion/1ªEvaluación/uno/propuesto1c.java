@@ -12,6 +12,7 @@ public class propuesto1c {
         int operacion;
         boolean seguir = true;
         
+        
         do { //bucle dowhile, donde repetimos el metodo hasta que sea false.
             
         System.out.println("Dame el primer numero: ");
@@ -52,5 +53,6 @@ public class propuesto1c {
     public static int restar(int a, int b) {
         return a-b;
     }
+    
     
 }

@@ -24,7 +24,7 @@ public class propuesto8b {
 
             switch (letras) {
                 case 'a','e','i','o','u':
-                    System.out.println(letras + " la letras es vocal");
+                    System.out.println(letras + " la letra es vocal");
                     break;
                     
                 default:
