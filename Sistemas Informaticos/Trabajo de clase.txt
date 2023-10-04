@@ -136,3 +136,29 @@ Sistema Hexadecimal:
 -1/RT = 1/R1 + 1/R2
 -Viendo las posiciones de las resistencias, saber cuando estan en serie o en paralelo.	909
 
+ ----------
+|04/10/2023|
+ ----------
+Diferencia entre electronica y electricidad.
+	*La electricidad es el fenómeno físico de la corriente eléctrica, 
+	 mientras que la electrónica es el estudio y el control de este fenómeno mediante elementos activos.
+-Componenete activo o pasivo.
+
+-¿Que es analogico?: 
+	*Lo analógico es aquello basado en la analogía: un vínculo de semejanza entre elementos distintos. 
+	*Este adjetivo, derivado del vocablo griego analogikós, suele usarse para hacer referencia a un tipo
+	 de sistema o de dispositivo.
+-2^16 = 65536
+-1/f = T
+-¿Que es un osciloscopio?
+-Ventajas y desventajas de sistemas digitales.
+	*Ventajas: Menor tamaño, Eficiencia, Precisión, Diseño, Estabilidad
+	*Desventajas: Conversión, Ancho de banda, Alteración.
+
+-Ventajas y desventajas de sistemas analogicos.
+	*Ventajas: Instantaneidad, Economía, Fidelidad.
+	*Desventajas:Menor tolerancia al ruido, Degradación de la señal, Dificultades técnicas.
+
+-Hemos trabajado en un excel compartido poniendo las desventajas y ventajas de los puntos de antes.
+
+
