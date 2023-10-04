@@ -5,6 +5,7 @@ import java.util.Scanner;
 //introducir una cantidad double de pasta(dinero)
 //cambiar de dolares a euros o euros a dolares
 //metodo que pida la cantidad a introducir (obtenerValor).
+//metodo  obtenerCantidad, donde pedimos la cantidad al escoger el metodo que queremos usar.
 
 public class metodosCambio {
 
@@ -31,7 +32,9 @@ public class metodosCambio {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        //teniamos el metodo scanner del main mal iniciado, al tenerlo arriba no necesitamos declararlo abajo.
+        //Por eso solo es "sc = new Scanner(System.in);" y no "Scanner sc = new Scanner(System.in);"
+        sc = new Scanner(System.in);
         
         int operacion;
         // double cantidadDinero;
