@@ -106,3 +106,9 @@ un alumno).
 -Correccion de los ejercicios, segun los vamos corrigiendo los irá subiendo al classroom.
 -Intentar terminar los ejercicios que no corrija y repasasrlos de nuevo.
 
+ ----------
+|04/10/2023|
+ ----------
+Seguimos haciendo los ejercicios que mando, estaba acabando el ejercicio final del 4 pdf, y me falta poner la cardinalidad 
+y poder continuar con dos mas que faltan y empezar el ultimo pdf
+
