@@ -142,5 +142,10 @@ vocales o consonantes.
 	}
 
 }
-
+ ------------
+|#04/10/2023#|
+ ------------
+-Creamos la clase metodosCambio, donde nos pide que hagamos una conversión de dolares a euros y de euros a dolares.
+-Revisar la clase, ya que tuvimos un error tras el metodo obtenerValor.
+-Creamos tambien la clase de centimetros a pies y pulgadas y viceversa.
 
