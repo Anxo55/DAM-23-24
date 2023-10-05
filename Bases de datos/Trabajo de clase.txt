@@ -109,6 +109,19 @@ un alumno).
  ----------
 |04/10/2023|
  ----------
-Seguimos haciendo los ejercicios que mando, estaba acabando el ejercicio final del 4 pdf, y me falta poner la cardinalidad 
-y poder continuar con dos mas que faltan y empezar el ultimo pdf
+-Seguimos haciendo los ejercicios que mando, estaba acabando el ejercicio final del 4 pdf, y me falta poner la cardinalidad 
+ y poder continuar con dos mas que faltan y empezar el ultimo pdf
+
+ ----------
+|05/10/2023|
+ ----------
+-Despues de estar haciendo los ejercicios nos pusimos a corregir, en principio se terminó bien, pero habrá fallos.
+-Volver a repetir los ejercicios, y revisar los del pdf 5, donde empezamos con las entidades grandes, donde metemos
+otras entidades que declaran otras y creamos lo que podrian ser atributos en entidades para declrarlo y que cuente.
+-En este caso en el primer ejercicio del pdf 5.
+
+-Primero corregimos el pdf 1 de las cuentas bancarias que es diferente al del pdf4.
+-Corregimos el otro ejercicio de cuentas bancarias, en este es donde si está incluida la entidad transaccion.
+-Seguimos con lo ejercicios del ultimo pdf, los seguiremos haciendo para terminarlos para la proxima semana.
+
 

@@ -10,5 +10,17 @@ public class ejemplo1 {
         int c = a+b;
 
     }
+
+    public static int power(int base, int exponente) {
+        return (int)Math.pow(base, exponente);
+    }
+
+    public static double funcI(int num1, int num2) {
+        int aux = 1;
+        for(int i=0; i<num2; i++) {
+            aux*=num1;
+        }
+        return aux;
+    }
     
 }
