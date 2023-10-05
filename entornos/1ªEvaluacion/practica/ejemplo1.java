@@ -1,4 +1,4 @@
-package practica;
+// package practica;
 
 public class ejemplo1 {
 
@@ -13,6 +13,14 @@ public class ejemplo1 {
 
     public static int power(int base, int exponente) {
         return (int)Math.pow(base, exponente);
+    }
+
+    public static int potencia(int base, int exponente) {
+        int resultado=1;
+        for(int i=0; i<exponente; i++) {
+            resultado *= base;
+        }
+            return resultado;
     }
 
     public static double funcI(int num1, int num2) {

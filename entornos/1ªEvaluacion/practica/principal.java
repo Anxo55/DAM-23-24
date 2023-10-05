@@ -1,4 +1,4 @@
-package practica;
+// package practica;
 
 public class principal {
 
