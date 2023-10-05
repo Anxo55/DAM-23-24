@@ -149,3 +149,28 @@ vocales o consonantes.
 -Revisar la clase, ya que tuvimos un error tras el metodo obtenerValor.
 -Creamos tambien la clase de centimetros a pies y pulgadas y viceversa.
 
+ ------------
+|#05/10/2023#|
+ ------------
+-Empezamos con POO que es la porgramacion orientadad o objetos.
+-Diferencia entre objeto y clase.
+-Conocer estructura basica de las clases
+-Las clases tienen una estructura parecida a la siguiente:
+
+	[algo_l] class nombre_de_la_clase [algo_2] {
+		[Atributos]
+		[Métodos]
+}
+
+-Extends o implements
+-Metodo equals para distinguir dos objetos.(Comprobar en cas y preguntar por el metodo equals igualmente).
+
+-CARACTERÍSTICAS DE LA PROGRAMACIÓN ORIENTADA A OBJETOS: 
+	*Abstracion:
+	*Encapsulamiento:
+	*Polimorfismo:
+	*Herencia:
+
+-Ejemplo setEdad(metodo set), le pasas la edad y el get es devolver ese valor.
+-En el ejemplo pajaro, creamos el metodo nombre, y le pasamos el this.nombre, en el set.
+

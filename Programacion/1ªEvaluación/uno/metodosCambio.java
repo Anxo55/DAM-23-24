@@ -11,6 +11,7 @@ public class metodosCambio {
 
     static Scanner sc;
 
+    //metodos
     public static double dolaresEuro(double dolares) {
             double euros;
             euros = dolares / 1.05;
