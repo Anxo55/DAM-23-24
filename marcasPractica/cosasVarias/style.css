@@ -35,3 +35,14 @@ a{
   color: white;
   text-shadow: 5px 5px 5px black;
 }
+
+ .container {
+ text-align: center;
+} 
+
+.imgLenguaje {
+  /* max-width: 100px; */
+  align-items: center;
+  display: block;
+  
+}
