@@ -152,7 +152,7 @@ vocales o consonantes.
  ------------
 |#05/10/2023#|
  ------------
--Empezamos con POO que es la porgramacion orientadad o objetos.
+-Empezamos con (POO) que es la porgramacion orientadad o objetos.
 -Diferencia entre objeto y clase.
 -Conocer estructura basica de las clases
 -Las clases tienen una estructura parecida a la siguiente:
@@ -163,7 +163,7 @@ vocales o consonantes.
 }
 
 -Extends o implements
--Metodo equals para distinguir dos objetos.(Comprobar en cas y preguntar por el metodo equals igualmente).
+-Metodo equals para distinguir dos objetos.(Comprobar en casa y preguntar por el metodo equals igualmente).
 
 -CARACTERÍSTICAS DE LA PROGRAMACIÓN ORIENTADA A OBJETOS: 
 	*Abstracion:
