@@ -161,4 +161,10 @@ Diferencia entre electronica y electricidad.
 
 -Hemos trabajado en un excel compartido poniendo las desventajas y ventajas de los puntos de antes.
 
+ ----------
+|05/10/2023|
+ ----------
+-Piezoelectricidad.
+-Estuvimos viendo la practica de las ventajas y desventajas entre el sistema analogico y digital.
+
 
