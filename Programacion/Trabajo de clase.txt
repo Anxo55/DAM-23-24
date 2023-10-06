@@ -174,3 +174,19 @@ vocales o consonantes.
 -Ejemplo setEdad(metodo set), le pasas la edad y el get es devolver ese valor.
 -En el ejemplo pajaro, creamos el metodo nombre, y le pasamos el this.nombre, en el set.
 
+ ------------
+|#06/10/2023#|
+ ------------
+Ejemplos: 
+	-InputStreamReader isr = new InputStreamReader(System.in); 
+	-Buf feredReader buff = new Buf feredReader (isr)
+	-String ln = buff.readLine();
+-Se habla del try catch pero no lo usaremos todavia, si es necesrio revisarlo igualmente.
+
+-Vimos lo constructores por defecto creados en la clase pajaro, el cual no anula al constructor creado con todos los
+ parametros.
+
+-Creamos varios pajaros en la clase testPajaro, donde metodos los constructores que metemos.
+
+-Vemos el metodo toString para mostrar en la consola los parametros de edad, color, nombre y demas.
+

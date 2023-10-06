@@ -7,11 +7,23 @@ public class pajaro {
         private int edad; //propiedad o atributo edad 
         private String nombre; //propiedad o atributo nombre;
 
-       /*  public pajaro(char color, int edad, String nombre) {
+        //Constructor por defecto
+        //el constructor por defecto no anula al constructor con todos los parametros
+        pajaro() {
+            
+        }
+
+        //constructor con un parametro.
+        pajaro(String nombre) {
+            this.nombre = nombre;
+        }
+
+        // Contructor con todos los parametros
+         pajaro(char color, int edad, String nombre) {
             this.color = color;
             this.edad = edad;
             this.nombre = nombre;
-        }*/
+        }
 
         //*** métodos de la clase **** 
         public void setNombre(String n) {
@@ -37,9 +49,15 @@ public class pajaro {
         public char getColor() {
             return this.color;
         }
-        
 
-        public void imprimecolor(){ 
+        
+        //creamos el metodo toString
+        @Override
+        public String toString() {
+            return "pajaro [color=" + color + ", edad=" + edad + ", nombre=" + nombre + "]";
+        }
+
+        /*public void imprimecolor(){ 
 
         switch(color){
 
@@ -70,13 +88,13 @@ public class pajaro {
     
             }
         }
-
+*/
         public void imprimenombre() {
             System.out.println(nombre);
         }
 
-        public void imprimeedad() {
-            System.out.println(edad);
+        // public void imprimeedad() {
+        //     System.out.println(edad);
 
-        }
+        // }
     }
