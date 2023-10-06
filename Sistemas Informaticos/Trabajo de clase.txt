@@ -167,4 +167,16 @@ Diferencia entre electronica y electricidad.
 -Piezoelectricidad.
 -Estuvimos viendo la practica de las ventajas y desventajas entre el sistema analogico y digital.
 
+ ----------
+|06/10/2023|
+ ----------
+-Elementos y materiales semiconductores.
+-Estructura atómica.
+-El transistor.
+-Ley de Moore.
+-En que se mide las resistencias(ohmnios), etc...
+-Transistores formados por silicio
+-¿Si aumentas la resitencia disminuye el voltage?
+¿-Chips formados principlamente por transistores?
+-El sentido convencional de la corriente va desde: 
 
