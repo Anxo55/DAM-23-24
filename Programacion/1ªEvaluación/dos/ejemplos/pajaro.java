@@ -57,6 +57,8 @@ public class pajaro {
             return "pajaro [color=" + color + ", edad=" + edad + ", nombre=" + nombre + "]";
         }
 
+        //El metodo imprimecolor lo documentamos ya que no necesitamos utilizar al tener los getters y setters.
+
         /*public void imprimecolor(){ 
 
         switch(color){

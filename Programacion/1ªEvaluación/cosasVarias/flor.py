@@ -4,7 +4,7 @@ import time
 # Configuración inicial
 t = turtle.Turtle()
 t.speed(0)  # Configura la velocidad máxima
-turtle.bgcolor("white")  # Configura el fondo blanco
+turtle.bgcolor("black")  # Configura el fondo blanco
 
 # Función para dibujar un pétalo
 def draw_petal():
