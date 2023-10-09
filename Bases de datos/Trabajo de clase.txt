@@ -123,5 +123,15 @@ otras entidades que declaran otras y creamos lo que podrian ser atributos en ent
 -Primero corregimos el pdf 1 de las cuentas bancarias que es diferente al del pdf4.
 -Corregimos el otro ejercicio de cuentas bancarias, en este es donde si está incluida la entidad transaccion.
 -Seguimos con lo ejercicios del ultimo pdf, los seguiremos haciendo para terminarlos para la proxima semana.
+ ----------
+|09/10/2023|
+ ----------
+-Correccion del ejercicio de la DGT del pdf 4, revisar el enunciado y ver la practica, ya que se hicieron varios cambios
+respecto al principal.
 
+-Practica igualmente subida al classroom de todas las practicas, quitando el ultimo que lo estamos terminando.
+
+-Por ultimo nos pusimos a corregir las cardinaledades ternarias del pdf 4(repasarlas y buscar mas ejemplos del estilo).
+
+-Las relaciones ternaris se hacen diferente a las que solemos hacer entre la relacion de dos entidades unicamente.
 
