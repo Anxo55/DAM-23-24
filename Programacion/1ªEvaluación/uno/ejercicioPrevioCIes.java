@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 public class ejercicioPrevioCIes {
 
-   
-        
         public static char getLetras(){
             return (char) ( 'a' + Math.random()*26  );
            //  a es -->97

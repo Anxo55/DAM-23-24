@@ -2,7 +2,7 @@ package dos.resueltos;
 
 import java.util.Scanner;
 
-public class resuekto1b {
+public class resuelto1b {
 
     
     public static double celsiusToFarenheit(double celsius) {

@@ -200,3 +200,6 @@ Ejemplos:
  celsiusToFarenheit y a la inversa.
 -Terminar la clase coche y testCoche dependiendo de los kilimotres mandar un mensaje.
 
+-Tras revisar en casa la clase coche y testCoche, documento todo y veo los metodos que hice en la clase coche, que le dará
+la informacion a la clase testCoche, para cuando se ejecute vea los valores y muestre el mensaje necesario por pantalla.
+
