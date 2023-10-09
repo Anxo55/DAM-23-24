@@ -1,21 +1,38 @@
 package dos.ejemplos;
 
 public class pajaro {
+    
+    //sirve como contador del numero de pajaros creados
+        static int numpajaros=0; 
+
+        static void nuevopajaro() {
+            numpajaros++;
+        };
 
      //*** atributos o propiedades ****
         private char color; //propiedad o atributo color 
         private int edad; //propiedad o atributo edad 
         private String nombre; //propiedad o atributo nombre;
 
+
         //Constructor por defecto
         //el constructor por defecto no anula al constructor con todos los parametros
         pajaro() {
-            
+            nuevopajaro();
+        }
+        
+        //constructor con dos parametros
+
+        pajaro(char color, int edad) {
+            this.color=color;
+            this.edad=edad;
+            nuevopajaro();
         }
 
         //constructor con un parametro.
         pajaro(String nombre) {
             this.nombre = nombre;
+            nuevopajaro();
         }
 
         // Contructor con todos los parametros
@@ -23,6 +40,7 @@ public class pajaro {
             this.color = color;
             this.edad = edad;
             this.nombre = nombre;
+            nuevopajaro();
         }
 
         //*** métodos de la clase **** 

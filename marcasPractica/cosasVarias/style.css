@@ -46,3 +46,7 @@ a{
   display: block;
   
 }
+
+.linkPequeño-derecha {
+  text-align: right;
+}

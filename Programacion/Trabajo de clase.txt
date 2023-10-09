@@ -190,3 +190,13 @@ Ejemplos:
 
 -Vemos el metodo toString para mostrar en la consola los parametros de edad, color, nombre y demas.
 
+ ------------
+|#09/10/2023#|
+ ------------
+-Incluimos el metodo nuevopajaro, que irá incrementando el numero de pajaros que sale por consola.
+-LIBRERÍAS DE OBJETOS (PAQUETES)
+-LA SENTENCIA IMPORT
+-Empezamos con los ejercicios propuestos y creamos la clase propuesto 1 donde hacemos la conversion de
+ celsiusToFarenheit y a la inversa.
+-Terminar la clase coche y testCoche dependiendo de los kilimotres mandar un mensaje.
+
