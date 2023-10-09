@@ -172,11 +172,21 @@ Diferencia entre electronica y electricidad.
  ----------
 -Elementos y materiales semiconductores.
 -Estructura atómica.
--El transistor.
+-El transistor
 -Ley de Moore.
 -En que se mide las resistencias(ohmnios), etc...
 -Transistores formados por silicio
 -¿Si aumentas la resitencia disminuye el voltage?
 ¿-Chips formados principlamente por transistores?
 -El sentido convencional de la corriente va desde: 
+
+ ----------
+|09/10/2023|
+ ----------
+-Compuertas de and y or.
+-Ejemplo de clase hecho en un folio que guardaré en la mochila.
+-Varios ejemplos practicando el and y or visualmente, ademas añadimos una mas que sería con la letra C.
+-Con el circulo pequeño se crea la negacion junto al triangulo que hacen la inversa.
+-Entramos en la pagina logic.ly.
+-Algebra booleana.
 
