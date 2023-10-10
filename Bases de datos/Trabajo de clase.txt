@@ -135,3 +135,11 @@ respecto al principal.
 
 -Las relaciones ternaris se hacen diferente a las que solemos hacer entre la relacion de dos entidades unicamente.
 
+ ----------
+|10/10/2023|
+ ----------
+-Nos pusimos a revisar otra vez las cardinalidades de las relaciones ternarias, del pdf 4 ya que ayer no se entendieron
+ del todo bien y era necesario, todo subido al github para revisar, en casa como siempre, volver a practicar como bien 
+ dije las practicas que estuvo mandando ya que serán necesarias para el respaso.
+
+
