@@ -12,7 +12,9 @@ public class pajaro {
      //*** atributos o propiedades ****
         private char color; //propiedad o atributo color 
         private int edad; //propiedad o atributo edad 
-        private String nombre; //propiedad o atributo nombre;
+        private String nombre; ///propiedad o atributo nombre;
+        //podemos crear varios atributos con el valor de String, pero por constructor solo se puede incluir uno de ellos no los dos.
+        private String apellido;
 
 
         //Constructor por defecto

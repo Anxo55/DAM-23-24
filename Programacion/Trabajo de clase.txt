@@ -203,3 +203,10 @@ Ejemplos:
 -Tras revisar en casa la clase coche y testCoche, documento todo y veo los metodos que hice en la clase coche, que le dará
 la informacion a la clase testCoche, para cuando se ejecute vea los valores y muestre el mensaje necesario por pantalla.
 
+ ------------
+|#10/10/2023#|
+ ------------
+-Varios ejercicios resueltos del segundo pdf sobre POO, por ultimo mañana nos dijo que haremos mañana el ultimo resuelto 
+
+
+

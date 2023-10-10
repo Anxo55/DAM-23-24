@@ -15,6 +15,14 @@ coche () {
     velocidad=0;
 }
 
+coche(int velocidad) {
+    if (velocidad <0 || velocidad >120) {
+        this.velocidad=0;
+    } else {
+        this.velocidad=velocidad;
+    }
+}
+
 //Generamos el getter y setter del atributo o porpiedad velocidad
 public int getVelocidad() {
     return this.velocidad;
@@ -26,7 +34,7 @@ public void setVelocidad(int velocidad) {
 
 //en este metodo incluimos el ifelse para dar las indicaciones que tendra q tener el testCoche cuando ejecutemos la clase con los parametros dados al objeto coche.
 public void acelear(int mas) {
-    if (velocidad + mas <= 120) {
+    if ((velocidad + mas) <= 120) {
         velocidad += mas;
     } else {
         System.out.println("No se puede acelear mas de 120 kilometros");
@@ -35,7 +43,7 @@ public void acelear(int mas) {
 
 //en este metodo incluimos el ifelse para dar las indicaciones que tendra q tener el testCoche cuando ejecutemos la clase con los parametros dados al objeto coche.
 public void  frenar(int menos) {
-    if (velocidad - menos >=0) {
+    if ((velocidad - menos) >=0) {
         velocidad -= menos;
     } else {
         System.out.println("No se puede ir por debajo de 0 kilometros");

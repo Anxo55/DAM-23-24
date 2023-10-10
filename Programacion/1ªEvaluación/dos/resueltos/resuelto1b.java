@@ -19,14 +19,16 @@ public class resuelto1b {
 
         double valor;
         char letra;
+        boolean seguir = true;
 
+        do {
+            
         System.out.println("Dame el valor en grados centigrados: ");
         valor = sc.nextDouble();
 
         System.out.println("Pulsa C para pasar de celsius a farenheit");
-        System.out.println("");
         System.out.println("Pulsa F para pasar de farenheit a celsius");
-        System.out.println("");
+        System.out.println("Pulsa S para salir del programa");
 
         letra = sc.next().charAt(0);
 
@@ -38,11 +40,17 @@ public class resuelto1b {
             case 'F':
                 System.out.println("Los grados de farenheit a celsius son: "+farenheitToCelsius(valor));    
                 break;
+
+            case 'S' :
+            seguir = false;
+            System.out.println("Cerrando el programa ejecutado...");
+                break;    
         
             default:
-                System.out.println("Opcion no valida...");
+                System.out.println("Opcion no valida, vuelve a intentarlo");
                 break;
         }
+         } while (seguir);
         
     }
     
