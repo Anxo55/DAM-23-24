@@ -208,5 +208,7 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ------------
 -Varios ejercicios resueltos del segundo pdf sobre POO, por ultimo mañana nos dijo que haremos mañana el ultimo resuelto 
 
+-Ademas hice algun ejercicio en el paquete de cosasVarias, como el de adivinar un numero aleatorio pasando numero por consola hasta adivinarlo.
+
 
 
