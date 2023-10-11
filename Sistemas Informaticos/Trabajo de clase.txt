@@ -190,3 +190,27 @@ Diferencia entre electronica y electricidad.
 -Entramos en la pagina logic.ly.
 -Algebra booleana.
 
+ ----------
+|11/10/2023|
+ ----------
+-Trabajo para hacer subido al classroom sobre los trasnsistores sobre varias preguntas acerca del video que vimos el otro
+ dia en clase con el documental.
+
+-Arquitectura de von neumann.
+
+-Crear en presentaciones google la siguiente imagen de arquitectura Von Neumann.
+
+-Trabajo hecho y entregado en una presentacion de google.
+
+-Jerarquia de memoria del ordenador.
+
+-Conectores textuales de java(garveich conector(En teoria)).
+
+-Vimos cosas del lenguaje ensamblador.
+
+-Ciclo de vida instreuccion CPU
+
+-Que significa ISA.
+
+-Elementos de una estructura von neuman
+
