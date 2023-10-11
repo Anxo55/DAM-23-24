@@ -142,4 +142,10 @@ respecto al principal.
  del todo bien y era necesario, todo subido al github para revisar, en casa como siempre, volver a practicar como bien 
  dije las practicas que estuvo mandando ya que serán necesarias para el respaso.
 
+ ----------
+|11/10/2023|
+ ----------
+-En vez de continuar con BBDD y las practicas nos pusimos con entornos y seguir dando ejemplo de POO.
+-Nos pusimos a hacer practicas de un constructor de coche con atributos y creando los metodos getters y setters,
+ para despues mostrarlo en la clase Principal la cual nos servira como test para mostrar los coches creados.
 
