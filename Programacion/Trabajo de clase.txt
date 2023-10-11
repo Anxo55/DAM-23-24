@@ -215,6 +215,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ------------
 -Hacemos la clase rebajas la cual nos da el porcentaje de descuento que nos hace del precio original, al actual.
 -En la misma clase creamos un nuevo metodo
--Repetimos el ejercicio de pies a pulgadas, puede que lo pida hacer a la inversa
+-Repetimos el ejercicio de pies a pulgadas, donde llamamos a la clase pipu en el paquete de resueltos, del paquete madre (dos)
+ puede que lo pida hacer a la inversa.
+-Revisar esa clase y el resto del paquete 2, y repasar cosas del primero ya que ayudan bastante para lo actual en POO.
+
+-En la carpeta personal de casa, cree algun objeto para practicar, pero mejor preguntar por los metodos de ingresar cantidad y quitar
+ ya que pasando la cantidad despues de introducirla ns como tendría que verse.
 
 
