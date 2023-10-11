@@ -210,5 +210,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 
 -Ademas hice algun ejercicio en el paquete de cosasVarias, como el de adivinar un numero aleatorio pasando numero por consola hasta adivinarlo.
 
+ ------------
+|#11/10/2023#|
+ ------------
+-Hacemos la clase rebajas la cual nos da el porcentaje de descuento que nos hace del precio original, al actual.
+-En la misma clase creamos un nuevo metodo
+-Repetimos el ejercicio de pies a pulgadas, puede que lo pida hacer a la inversa
 
 
