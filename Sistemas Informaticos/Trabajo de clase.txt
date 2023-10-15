@@ -213,4 +213,8 @@ Diferencia entre electronica y electricidad.
 -Que significa ISA.
 
 -Elementos de una estructura von neuman
+ ----------
+|16/10/2023|
+ ----------
+-Entregué el trabajo de los transisitores del classroom, pero hay que ver bien el video y quedarse con la información para el futuro.
 
