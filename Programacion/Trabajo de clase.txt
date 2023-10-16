@@ -222,4 +222,15 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -En la carpeta personal de casa, cree algun objeto para practicar, pero mejor preguntar por los metodos de ingresar cantidad y quitar
  ya que pasando la cantidad despues de introducirla ns como tendría que verse.
 
+ ------------
+|#16/10/2023#|
+ ------------
+-Hacemos la clase propuesto1 en el paquete 2, nos pide una clase finanzas donde hay q hacer de euro a dolar, creamos varios
+ metodos en la clase para que sea mas visible y tener todo ordenado por metodos.
+
+-Hacemos tambien el propuesto 2 que le llamamos MiNumero, donde creamos los metodos doble triple y cuadruple,
+ y lo mostramos en su clase test.
+
+-Por ultimo hacemos la clase numero y testNumero, donde creamos los metodos anteriores de doble, pero ademas le añadimos el
+ metodo de añadir y restar y lo volvemos a mostrar.
 
