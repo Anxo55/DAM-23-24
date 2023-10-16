@@ -216,5 +216,16 @@ Diferencia entre electronica y electricidad.
  ----------
 |16/10/2023|
  ----------
--Entregué el trabajo de los transisitores del classroom, pero hay que ver bien el video y quedarse con la información para el futuro.
+-Entregué el trabajo de los transisitores del classroom, pero hay que ver bien el video y quedarse con la información
+ para el futuro.
+
+-Si es posible editamos el trabajo para que quede mejor y si es posible hacerlo modo presentación.
+
+-Compiler explorer
+
+-Suma y resta de binarios
+
+-Como hacer multiplicaciones de binarios, y a mayores también vimos como sacar los binarios de numero decimales como
+ (0,75 o 0,2), hechos en el folio de la mochila de clase.
+
 
