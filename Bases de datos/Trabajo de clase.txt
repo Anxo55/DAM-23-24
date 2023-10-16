@@ -149,3 +149,12 @@ respecto al principal.
 -Nos pusimos a hacer practicas de un constructor de coche con atributos y creando los metodos getters y setters,
  para despues mostrarlo en la clase Principal la cual nos servira como test para mostrar los coches creados.
 
+ ----------
+|16/10/2023|
+ ----------
+-Empezamos con la UD3.
+-Modelo de Datos.
+-Toda la teoria del pdf de la UD3 hasta la pagina 4 más o menos, revisar en casa y volver a leer la teoria de nuevo.
+-Seguir con los ejercicios del pdf5 de la unidad anterior.
+-Tras seguir con el segundo ejercicio del pdf 5, hay que terminar el ejercicio para terminar la practica,
+ faltando poner las cardinalidades en cada una de las relaciones de cada ejercicio.
