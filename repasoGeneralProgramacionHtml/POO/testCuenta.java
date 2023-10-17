@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class testCuenta {
 
     public static void main(String[] args) {
+        
 
         Scanner sc = new Scanner(System.in);
 
@@ -20,7 +21,7 @@ public class testCuenta {
         cantidad = sc.nextInt();
 
         //A continuacion, siempre que creamos algun metodo en la clase madre,
-        //para utilizarla tenemos que meterlo directamente en euno de los objetos
+        //para utilizarla tenemos que meterlo directamente en uno de los objetos
         //creados en esta clase anteriormente
 
         bancaria2.ingresaCantidad(cantidad);
