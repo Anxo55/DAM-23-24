@@ -37,7 +37,7 @@ public class Persona {
 
     // La clase debe tener un metodo saludar que imprima un saludo que incluya el nombre de la persona y su edad.
     public void saludar() {
-        System.out.println("Hola "+nombre+ " felicidades por los "+edad);
+        System.out.println("Hola soy "+nombre+ " y tengo "+edad+" años");
     }
 
     @Override
