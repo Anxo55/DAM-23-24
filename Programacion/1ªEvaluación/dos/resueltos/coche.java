@@ -9,7 +9,6 @@ public class coche {
 
 private int velocidad; 
 
-
 //constructor por defecto.
 coche () {
     velocidad=0;
