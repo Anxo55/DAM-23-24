@@ -1,5 +1,7 @@
 package Gatito;
 
+import java.util.Scanner;
+
 public class Principal {
 
     public static void main(String[] args) {
@@ -9,16 +11,39 @@ public class Principal {
         System.out.println(mensaje);
         
         Gato gato1 = new Gato();
-        Gato gato2 = new Gato("Lili", 3);
+        Gato gato2 = creGatoUsuario();
+
+        aumentarEdad(gato2, 3);
+        aumentarEdad(gato2, 3);
         
+        System.out.println(gato1);
+        System.out.println(gato2);
 
-        System.out.println("Hola soy el gato 2 y me llamo: "+gato2.getNombre());
-        System.out.println("Hola soy el gato 2 y tengo: "+gato2.getEdad()+ " años");
-
-        System.out.println("");
-
-        Gato.darDefinicionGato();
+        pelearGato(gato1, gato2);
 
     }
+
+    public static void aumentarEdad(Gato miGato, int incremento) {
+        miGato.setEdad(miGato.getEdad()+incremento);
+    }
+
+    public static Gato creGatoUsuario() {
+        Scanner sc = new Scanner(System.in);
+        String nombreGato;
+        int edadGato;
+        System.out.println("Introduce el nombre: ");
+        nombreGato = sc.nextLine();
+        System.out.println("Introduce edad gato: ");
+        edadGato = sc.nextInt();
+        Gato gato = new Gato(nombreGato, edadGato);
+        return gato;
+       
+    }
     
+
+    public static void pelearGato(Gato gato1, Gato gato2) {
+        
+        System.out.println("hola soy el gato "+gato1.getNombre()+ " y me voy a pelear con el gato "+gato2.getNombre());
+        
+    }
 }

@@ -6,7 +6,8 @@ public class Gato {
     private int edad;
 
     public Gato() {
-        this.nombre = "";
+        super();
+        this.nombre = "Antonio";
         this.edad=0;
     }
 
@@ -22,6 +23,16 @@ public class Gato {
 
     public int getEdad() {
         return edad;
+    }
+
+    
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
     }
 
     public static void darDefinicionGato() {
