@@ -158,3 +158,16 @@ respecto al principal.
 -Seguir con los ejercicios del pdf5 de la unidad anterior.
 -Tras seguir con el segundo ejercicio del pdf 5, hay que terminar el ejercicio para terminar la practica,
  faltando poner las cardinalidades en cada una de las relaciones de cada ejercicio.
+
+ ----------
+|17/10/2023|
+ ----------
+-MODELO RELACIONAL. TERMINOLOGÍA Y ESTRUCTURA.
+-SGBD: Sistemas Gestores de Bases de Datos
+-CJ Date
+-Nos subio un pdf para bases de datos, y tambien algunos de programacion con ejercicios hechos.
+-Disco duro de roer para ver java.
+-Nos comparte un canal de telegram de programadores
+-Segui con el ejercicio del otro dia de entidad/relacion, mirarlo en casa por ver si falta alguna entidad para relacionar
+ ya que no encontré ninguna.
+
