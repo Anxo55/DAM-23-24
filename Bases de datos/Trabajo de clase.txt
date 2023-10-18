@@ -171,3 +171,10 @@ respecto al principal.
 -Segui con el ejercicio del otro dia de entidad/relacion, mirarlo en casa por ver si falta alguna entidad para relacionar
  ya que no encontré ninguna.
 
+ ----------
+|18/10/2023|
+ ----------
+-Restricciones inherentes y semanticas.
+-(NOT NULL, UNIQUE)
+-Ejemplos de los tipos de restricciones.
+
