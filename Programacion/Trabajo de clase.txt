@@ -244,4 +244,7 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 |#18/10/2023#|
  ------------
 -Mirar practica con JFrame  con metodos de conversion o de calculadora.
+-La clase peso la dejamos sin hacer.
+-Hacemos el propuesto 8 que es la clase coche.
+-Continuando empezamos con la clase consumo que es el propuesto 9.
 
