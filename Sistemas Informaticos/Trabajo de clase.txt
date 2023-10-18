@@ -228,4 +228,28 @@ Diferencia entre electronica y electricidad.
 -Como hacer multiplicaciones de binarios, y a mayores también vimos como sacar los binarios de numero decimales como
  (0,75 o 0,2), hechos en el folio de la mochila de clase.
 
+ ----------
+|18/10/2023|
+ ----------
+-¿msd y lsd?(Most Significant Digit and Least Significant Digit).
+-Bit mas significativo(MSB).
+-Endianness.
+-Representacion de numeros con signo.
+-Complemento a 1. Ejemplo: 10 = 1010 , -10 = 10101, el negativo le damos la vuelta del positivo.
+-Complemento a 2. Ejemplo: 1001010
+			   c1: 10110101
+				     +1
+			   ------------
+			       10110110
+
+		   Ejemplo: 1011101
+			    c1: 10100010
+				      +1
+				--------
+				10100011
+-Float coverter pagina web.
+-Cisc y Risc.
+-x86 y x86 64.
+-Arquitectura ARM.
+
 
