@@ -237,7 +237,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ------------
 |#17/10/2023#|
  ------------
-
 -Hacemos el propuesto 5 que mejorar la clase satelite de los resueltos, dejamos sin hacer el 6 ya que no daba tiempo y
  pasamos al 7, pero si se puede se hace en casa.
+
+ ------------
+|#18/10/2023#|
+ ------------
+-Mirar practica con JFrame  con metodos de conversion o de calculadora.
 
