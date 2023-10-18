@@ -45,6 +45,12 @@ public class Empleado {
         this.departamento = departamento;
     }
 
+    // Implementa un método para otorgar un aumento de salario.
+
+    public void aumentoSueldo(int aumento) {
+        this.salario += aumento;
+    }
+
     @Override
     public String toString() {
         return "Empleado [nombre=" + nombre + ", salario=" + salario + ", departamento=" + departamento + "]";
