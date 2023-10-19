@@ -252,4 +252,10 @@ Diferencia entre electronica y electricidad.
 -x86 y x86 64.
 -Arquitectura ARM.
 
+ ----------
+|19/10/2023|
+ ----------
+-Rapid tables google.
+-Litte Big Endian Converter
+-Cuanto es el tamaño de una variable int
 
