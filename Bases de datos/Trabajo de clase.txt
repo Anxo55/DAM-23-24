@@ -178,3 +178,9 @@ respecto al principal.
 -(NOT NULL, UNIQUE)
 -Ejemplos de los tipos de restricciones.
 
+ ----------
+|19/10/2023|
+ ----------
+-Estuvimos haciendo kahoots del modelo relacional
+-Mas repaso de la interpretacion del diseño logico, metodo cascada, insert, not null.
+
