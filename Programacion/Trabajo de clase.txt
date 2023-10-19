@@ -248,3 +248,12 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Hacemos el propuesto 8 que es la clase coche.
 -Continuando empezamos con la clase consumo que es el propuesto 9.
 
+ ------------
+|#19/10/2023#|
+ ------------
+-Hacemos el propuesto 11 que es la clase restaurante.
+-En la clase restaurante para que 3 comensales pueda comer necesitan 1.0 de patatas y 0.5 de chocos, por lo tanto
+ el metodo si las patatas es mayor que el doble que le pasamos de choco hace un metodo, sino otro.
+-Ademas hacemos la clase almacen que es del propuesto 12, en la que metemos los metodos de la clase restaurante y
+ la vamos a ir mejorando con lo que pide para el propuesto 12.
+
