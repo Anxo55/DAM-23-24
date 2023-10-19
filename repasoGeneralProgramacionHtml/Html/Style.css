@@ -1,0 +1,8 @@
+.contenedor-principal {
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+    color: white;
+    background-color: skyblue;
+    text-shadow: 3px 3px 3px black;
+}
