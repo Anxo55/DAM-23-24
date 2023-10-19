@@ -9,7 +9,7 @@ public class numAleatorio2 {
         int intentos = 0;
         int numeroAleatorio;
         int numero;
-        boolean seguir = true;
+        boolean acertar = true;
 
         numeroAleatorio = (int) (Math.random()*100);
 
@@ -25,19 +25,20 @@ public class numAleatorio2 {
             System.out.println("Lo siento, el valor es mas pequeño. ");
         }else if(numero < numeroAleatorio) {
             System.out.println("Lo siento, el valor es mas grande");
+        }else{
+                System.out.println("Felicidades adivinaste el numero aleatorio " +numeroAleatorio+ " en " +intentos+ " intentos");
+
         }
 
         if(intentos < 10) {
             System.out.println("Llevas: "+intentos);
         }else if(intentos == 10) {
-            seguir = false;
-            System.out.println("Lo lamento no consigo adivinar el numero, itentelo en otra ocasion.");
+            System.out.println("Lo lamento no consigo adivinar el numero " +numeroAleatorio+ " itentelo en otra ocasion.");
         }
 
          } while (numero != numeroAleatorio && intentos < 10);
 
          
-         System.out.println("Felicidades adivinaste el numero aleatorio " +numeroAleatorio+ " en " +intentos+ " intentos");
 
     }
     
