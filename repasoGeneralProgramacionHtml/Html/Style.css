@@ -1,8 +1,19 @@
+body{
+    background: linear-gradient(to right, skyblue 20%, rgb(180, 180, 245) 51%);
+}
+
 .contenedor-principal {
     text-align: center;
     text-decoration: none;
-    border: 1px solid black;
-    color: white;
-    background-color: skyblue;
-    text-shadow: 3px 3px 3px black;
+    color: salmon;
+    text-shadow: 4px 4px 4px black;
 }
+
+.contenedor-principal h1{
+    /* vacio por ahora */
+}
+.contenedor-principal img {
+    max-width: 60px;
+    
+}
+
