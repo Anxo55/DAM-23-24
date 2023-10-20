@@ -2,18 +2,45 @@ body{
     background: linear-gradient(to right, skyblue 20%, rgb(180, 180, 245) 51%);
 }
 
-.contenedor-principal {
+.contenedor-cabeza {
     text-align: center;
     text-decoration: none;
-    color: salmon;
+    color: aquamarine;
     text-shadow: 4px 4px 4px black;
 }
 
-.contenedor-principal h1{
-    /* vacio por ahora */
+.contenedor-cabeza li  {
+    text-align: center;
+    padding: 5px;
+    /* text-decoration: none; */
+
 }
-.contenedor-principal img {
+
+.contenedor-cabeza ul {
+    /* text-decoration: none; */
+}
+
+.contenedor-cabeza h2{
+    color: aquamarine;
+    text-shadow: 5px 5px 5px black;
+}
+
+.contenedor-cabeza img {
     max-width: 60px;
-    
+    /* con el display movemos la imagen a la izquierda */
+    display: flex;
 }
+
+.contenedor-principal img{
+    
+    max-width: 150px;
+
+}
+
+.contenedor-secundario {
+    border: 0.1px solid black;
+}
+
+
+
 
