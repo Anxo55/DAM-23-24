@@ -259,3 +259,13 @@ Diferencia entre electronica y electricidad.
 -Litte Big Endian Converter
 -Cuanto es el tamaño de una variable int
 
+ ----------
+|20/10/2023|
+ ----------
+-c++ tiene acceso a la memoria, por eso lo hemos usado para comorobar el ejemplo de los bits.
+
+- -9
+b: 1001
+c1:111 1 0110
+c2:111 1 0111
+
