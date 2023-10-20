@@ -257,3 +257,12 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Ademas hacemos la clase almacen que es del propuesto 12, en la que metemos los metodos de la clase restaurante y
  la vamos a ir mejorando con lo que pide para el propuesto 12.
 
+ ------------
+|#20/10/2023#|
+ ------------
+-Terminando la clase Almacen creando sus constructores, los metodos getters y setters, y donde meteremos mas kilos tanto
+ a los chocos existentes como a las patatas.
+-Y tambien uno que nos devuelva el numero de comensales que puede atender el restaurante.
+-Clase almacen terminada, revisarla con los metodos que muestra los comensales, y el metodo donde tendrá que ir al mercado
+ y mostrariamos el total de patatas y chocos que tenemos despues de la compra y todo.
+
