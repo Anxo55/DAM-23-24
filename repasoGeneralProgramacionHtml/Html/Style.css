@@ -4,20 +4,23 @@ body{
 
 .contenedor-cabeza {
     text-align: center;
-    text-decoration: none;
+    text-decoration: none; 
     color: aquamarine;
     text-shadow: 4px 4px 4px black;
 }
 
-.contenedor-cabeza li  {
-    text-align: center;
-    padding: 5px;
-    /* text-decoration: none; */
-
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center; /* Alinea a la derecha */
 }
 
-.contenedor-cabeza ul {
-    /* text-decoration: none; */
+nav li {
+    text-decoration: none;
+    display: inline; /* Muestra los elementos en línea */
+    margin-right: 40px; /* Espacio entre elementos de la lista */
+    margin-top: 0; /* Elimina el espacio superior */
 }
 
 .contenedor-cabeza h2{
@@ -32,13 +35,29 @@ body{
 }
 
 .contenedor-principal img{
-    
     max-width: 150px;
 
 }
 
+.imagen1 {
+    float: left;
+    margin-left: 20px;
+
+}
+
+.imagen2 {
+    display: block;
+    margin: 0 auto; /* Centrar horizontalmente */
+    max-width: 150px;
+}
+.imagen3 {
+float: right;
+margin-right: 20px;
+}
+
 .contenedor-secundario {
-    border: 0.1px solid black;
+    margin: 20px;
+    display: inline;
 }
 
 
