@@ -22,7 +22,7 @@ static Scanner sc;
         System.out.println("Dame el segundo entero: ");
         numero2 = sc.nextInt();
 
-        System.out.println("SUMA, RESTA, MULTIPLICACION, DIVIISON, SALIR");
+        System.out.println("(S)SUMA, (R)RESTA, (M)MULTIPLICACION, (D)DIVIISON, (Q)SALIR");
         operacion = sc.next().charAt(0);
 
         switch (operacion) {
