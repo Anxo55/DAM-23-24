@@ -266,3 +266,14 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Clase almacen terminada, revisarla con los metodos que muestra los comensales, y el metodo donde tendrá que ir al mercado
  y mostrariamos el total de patatas y chocos que tenemos despues de la compra y todo.
 
+ ------------
+|#23/10/2023#|
+ ------------
+-Empezamos con el tema 3.
+-Alternativa al if else de la clase Almacen de Papas y Chocos, subido al classroom usando un while, mientras las unidades
+ sean mayores que las minimas se come, y se resta lo que das.
+
+-Diferentes maneras de declarar el if, en vez de hacer algun if usando también if else
+-ejercicioCondicional, donde tenemos tarjeta oro, club y joven, donde tenemos que aplicar varios estilos.
+-Revisar el ejercicio, y volver a intentarlo solo con if else, y mirar el del examen del año pasado.
+

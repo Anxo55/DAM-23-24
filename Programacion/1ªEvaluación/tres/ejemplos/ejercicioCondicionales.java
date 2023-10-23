@@ -10,36 +10,35 @@ import java.util.Scanner;
 
 public class ejercicioCondicionales {
 
-public static void main(String[] args) {
+ public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-      Scanner sc = new Scanner(System.in);
+        System.out.println("Ingrese el tipo de tarjeta (oro, club, joven):");
+        String tipoTarjeta = sc.nextLine();
 
-        double precioTotal;  
-        boolean tieneTarjetaOro = true;
-        boolean tieneTarjetaClub = true;
-        boolean esModalidadJoven = true;
+        System.out.println("Ingrese el precio total de la compra:");
+        double precioTotal = sc.nextDouble();
 
-        System.out.println("Dame el precio total: ");
-        precioTotal = sc.nextDouble();
-        
-        
         double descuento = 0.0;
+
         
-        if (tieneTarjetaOro) {
-            descuento += 0.15; 
+        if (tipoTarjeta.equalsIgnoreCase("oro")) {
+            descuento += 0.15;
+        } else if (tipoTarjeta.equalsIgnoreCase("club")) {
+            descuento += 0.05;
+        } else if (tipoTarjeta.equalsIgnoreCase("joven")) {
+            descuento += 0.05;
         }
+
         
-        if (tieneTarjetaClub) {
-            descuento += 0.05; 
-        }
-        
-        if (esModalidadJoven) {
-            descuento += 0.05; 
-        }
-        
-       
         double importeFactura = precioTotal - (precioTotal * descuento);
-        
+
         System.out.println("Importe a facturar: " + importeFactura);
     }
 }
+
+
+
+
+
+
