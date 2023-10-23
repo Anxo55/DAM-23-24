@@ -269,3 +269,22 @@ b: 1001
 c1:111 1 0110
 c2:111 1 0111
 
+ ----------
+|23/10/2023|
+ ----------
+-Vimos n video acerca de los bits, junto a la memoria RAM y demás y las puertas AND y OR, subirá el video al classroom.
+ Intentar ver el video de nuevo.
+
+-Hicimos una practica en logic.ly con dos interruptores.
+-Kahoot, abajo algunas soluciones.
+-A la ram se accede de manera aleatoria.
+-Multiplexor
+-Gated latched.
+-Lo almacenado en RAM se pierde(no se guarda) al apagar el ordenador. VERDADERO.
+-Para que sirve un gated latch
+-Cuantos bits hay en un digito hex(4).
+-La RAM está compuesta por diferentes matrices.
+-Tamaño mas comun de una variable int(32).
+-La RAM consta de direccion y datos.
+-Grupo de latches agrupado juntos de llaman(Registros).
+
