@@ -21,7 +21,7 @@ public class ejercicioCondicionales {
 
         double descuento = 0.0;
 
-        
+        //cuando uso el equalsIgnoreCase es para comparar lo String
         if (tipoTarjeta.equalsIgnoreCase("oro")) {
             descuento += 0.15;
         } else if (tipoTarjeta.equalsIgnoreCase("club")) {
