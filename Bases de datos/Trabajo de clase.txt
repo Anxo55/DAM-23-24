@@ -184,3 +184,12 @@ respecto al principal.
 -Estuvimos haciendo kahoots del modelo relacional
 -Mas repaso de la interpretacion del diseño logico, metodo cascada, insert, not null.
 
+ ----------
+|23/10/2023|
+ ----------
+-Hasta no ver sql no veremos las restricciones de rechazo, de la UD3.
+-Nuevo documento de teoria de transformacion entidad/relacion al modelo relacional.
+-Ahora con las practicas que hicimos anteriormente, crearemos las tablas con las practicas de los ejercicios propuestos
+ de la UD2
+-Terminamos la primera practica y empecé con la segunda, terminar las practicas en casa.
+
