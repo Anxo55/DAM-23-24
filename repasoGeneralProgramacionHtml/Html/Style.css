@@ -2,6 +2,7 @@ body{
     background: linear-gradient(to right, skyblue 20%, rgb(180, 180, 245) 51%);
 }
 
+
 .contenedor-cabeza {
     text-align: center;
     text-decoration: none; 
@@ -34,6 +35,11 @@ nav li {
     display: flex;
 }
 
+.contenedor-cabeza-decoracion {
+    text-decoration: none;
+    color: black;
+}
+
 .contenedor-principal img{
     max-width: 150px;
 
@@ -42,6 +48,7 @@ nav li {
 .imagen1 {
     float: left;
     margin-left: 20px;
+    margin: 50px auto;
 
 }
 
@@ -53,11 +60,35 @@ nav li {
 .imagen3 {
 float: right;
 margin-right: 20px;
+margin: -200px auto;
 }
 
 .contenedor-secundario {
-    margin: 20px;
+    margin: 425px;
     display: inline;
+    text-align: center;
+    align-items: center;
+}
+
+.contenedor-formulario {
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+}
+
+.contenedor-formulario label {
+    text-shadow: 4px 4px 4px black;
+}
+
+.return-page {
+    text-align: right;
+    text-decoration: none;
+    color: black;
+}
+
+.return-page-inicio {
+    /* con ele stilo float lo alineo a la derecha de la pagina */
+    float: right;
 }
 
 

@@ -59,6 +59,7 @@ public class Contacto {
         this.apellido = apellido;
     }
 
+    // para crear un nuevo contacto debemos ponerlos en orden los parametros como en los constructores.
     public static Contacto agregaContacto() {
         Scanner sc = new Scanner(System.in);
         String nombreContacto, apellidoContacto, correoContacto;
@@ -75,7 +76,7 @@ public class Contacto {
 
         System.out.println("Dame su telefono: ");
         telefonoContacto = sc.nextInt();
-        Contacto contacto = new Contacto(nombreContacto, apellidoContacto, correoContacto, telefonoContacto);
+        Contacto contacto = new Contacto(nombreContacto, telefonoContacto , correoContacto, apellidoContacto);
         return contacto;
 
     }
