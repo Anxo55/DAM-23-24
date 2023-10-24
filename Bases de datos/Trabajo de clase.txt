@@ -193,3 +193,12 @@ respecto al principal.
  de la UD2
 -Terminamos la primera practica y empecé con la segunda, terminar las practicas en casa.
 
+ ----------
+|24/10/2023|
+ ----------
+-Continuar con las practicas del modelor relacional.
+-Cada vez que creamos una tabla, cuando en la cardinalidad tenemos 1:n, la entidad que represente el mucho(n), pondrá
+ su clave primaria en la otra tabla a crear.
+
+-Antonio nos crea un classroom nuevo con todo libros con las asignaturas que vamos a ver con el.
+
