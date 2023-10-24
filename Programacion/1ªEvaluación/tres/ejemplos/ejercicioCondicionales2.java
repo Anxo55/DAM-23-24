@@ -2,91 +2,54 @@ package tres.ejemplos;
 
 import java.util.Scanner;
 
-// Se quiere determinar el importe a facturar a los clientes de unos grande almacenes segun estos criterios;
-// Si pagan con tarjeta oro tendran un 15% descuento
-// Si pagan con tarjeta club tendran un 5% descuento
-// Si la tarjeta (oro o club) es modalidad joven, tedran un 5% de descuento.
-// Los descuentos son acumulables.
+/*
+    -Se quiere determinar la nomina de los empleados de una empresa de acuerdo con estos
+    criterios.
+
+ * -Si el empleado es altamente productivo tendrá en nomina un plus de productividad. +10%
+ * -Si el empelado es encargado de su grupo tendrá en nómina un plus de encargado. +20%
+ * -Si el empleado ha cometido una infraccion grave durante ese ems le será eliminado -15%
+ * cualquier plus que pudiera tener.
+ */
 
 public class ejercicioCondicionales2 {
+    
+    public static double calcularNomina(double salarioBase, boolean altamenteProductivo, boolean esEncargado, boolean infraccionGrave) {
+        double salario = salarioBase;
 
+        if (altamenteProductivo) {
+            salario *= 1.10;
+        }
 
-    public static double calcularPago(double descuento, double descuento2) {
-        Scanner scanner = new Scanner(System.in);
+        if (esEncargado) {
+            salario *= 1.20;
+        }
 
-        System.out.println("Dime el precio: ");
-        double precio = scanner.nextDouble();
-        return precio * (1 - descuento) * (1-descuento2);
+        if (infraccionGrave) {
+            salario *= 0.85;
+        }
 
+        return salario;
     }
 
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
-        boolean oro = false;
-        boolean club = false;
-        boolean joven = false;
+        System.out.print("Ingrese el salario base del empleado: ");
+        double salarioBase = sc.nextDouble();
 
-        System.out.println("oro true/false");
-        oro = sc.nextBoolean();
-        System.out.println("club true/false");
-        club = sc.nextBoolean();
-        System.out.println("joven true/false");
-        joven = sc.nextBoolean();
-        
+        System.out.print("¿Es el empleado altamente productivo? (true/false): ");
+        boolean altamenteProductivo = sc.nextBoolean();
 
-        if (oro) {
+        System.out.print("¿Es el empleado un encargado? (true/false): ");
+        boolean esEncargado = sc.nextBoolean();
 
-            if (club) {
+        System.out.print("¿El empleado cometió una infracción grave este mes? (true/false): ");
+        boolean infraccionGrave = sc.nextBoolean();
 
-                if (joven) {
-                    System.out.println("oro  club   joven");
-                    System.out.println("NO VIABLE");
-                }else{
-                    System.out.println("oro   club    no joven");
-                    System.out.println("NO VIABLE");
-                }
-                
-            } else {
-                if (joven) {
-                    System.out.println("oro  !club   joven");
-                    System.out.println("descuento 15% y 5%");
-                    System.out.println(calcularPago(0.15,  0.05));
-                }else{
-                    System.out.println("oro   !club    !joven");
-                    System.out.println("descuento 15%");
-                    System.out.println(calcularPago(0.15, 0)); 
-                }
-                
-            }
-            
-        }else{
-            
-            if (club) {
+        double nomina = calcularNomina(salarioBase, altamenteProductivo, esEncargado, infraccionGrave);
 
-                if (joven) {
-                    System.out.println("!oro  club   joven");
-                    System.out.println("descuento del 15% y 5%");
-                    System.out.println(calcularPago(0.05 , 0.05));
-                }else{
-                    System.out.println("!oro   club    !joven");
-                    System.out.println("descuento de 5%");
-                    System.out.println(calcularPago(0.05, 0));
-                }
-                
-            } else {
-                if (joven) {
-                    System.out.println("!oro  !club   joven");
-                    System.out.println("NO VIABLE");
-                }else{
-                    System.out.println("!oro   !club    !joven");
-                    System.out.println("no tienes descuentos");
-                }
-                
-            }
-
-        }
-        
+        System.out.println("La nómina calculada es: " + nomina);
     }
-    
 }
