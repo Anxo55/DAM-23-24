@@ -74,13 +74,11 @@ margin: -200px auto;
     align-items: center;
     text-align: center;
     margin: 50px;
-
     /* con lo de abajo creas una caja */
     border-radius: 8px;
     box-shadow: 4px 3px 8px;
     /* hasta aqui para hacer la caja */
-    
-  padding: 50px;
+    padding: 50px;
 }
 
 
