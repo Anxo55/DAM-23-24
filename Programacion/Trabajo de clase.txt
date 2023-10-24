@@ -277,3 +277,10 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -ejercicioCondicional, donde tenemos tarjeta oro, club y joven, donde tenemos que aplicar varios estilos.
 -Revisar el ejercicio, y volver a intentarlo solo con if else, y mirar el del examen del año pasado.
 
+------------
+|#24/10/2023#|
+ ------------
+-Correccion del ejercicioCondicionales.
+-Corregimos la clase condicional y hicimos una segunda version.
+-Subio un segundo ejercicio de condicionales en el classroom.
+
