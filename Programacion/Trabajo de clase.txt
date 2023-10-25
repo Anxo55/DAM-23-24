@@ -284,3 +284,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Corregimos la clase condicional y hicimos una segunda version.
 -Subio un segundo ejercicio de condicionales en el classroom.
 
+------------
+|#25/10/2023#|
+ ------------
+-Correcion del ejercicio de condicionales 2.
+-Dimos varios ejemplos del metodo switch.
+
