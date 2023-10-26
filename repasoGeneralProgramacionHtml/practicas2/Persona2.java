@@ -10,13 +10,11 @@ public class Persona2 {
     private int edad;   
 
     Persona2() {
-        super();
         this.nombre = "Angel";
         this.edad = 20;
     }
 
     Persona2(String nombre, int edad) {
-        super();
         this.nombre = nombre;
         this.edad = edad;
     }
@@ -37,6 +35,20 @@ public class Persona2 {
         this.nombre = nombre;
     }
 
+    public static Persona2 nuevaPersona() {
+        Scanner sc = new Scanner(System.in);
+        
+        String nombrePersona;
+        int edadPersona;
+        System.out.println("Dame el nombre de la persona: ");
+        nombrePersona = sc.nextLine();
+        System.out.println("Dame la edad de la persoana;");
+        edadPersona = sc.nextInt();
+        // Persona2 persona = nuevaPersona(nombrePersona, edadPersona); //MAL
+        Persona2 persona = new Persona2(nombrePersona, edadPersona);
+        return persona;
+    }
+
     @Override
     public String toString() {
         return "Persona2 [edad=" + edad + ", nombre=" + nombre + "]";
@@ -46,22 +58,7 @@ public class Persona2 {
         System.out.println("Hola me llamo "+nombre+ " tengo "+edad+ " años es un placer conoceros a todos.");
     }
 
-    public static Persona2 nuevaPersona() {
-        Scanner sc = new Scanner(System.in);
-        
-        String nombrePersona;
-        int edadPersona;
-
-        System.out.println("Dame el nombre de la persona: ");
-        nombrePersona = sc.nextLine();
-
-        System.out.println("Dame la edad de la persoana;");
-        edadPersona = sc.nextInt();
-
-        Persona2 persona = nuevaPersona();
-
-        return persona;
-    }
+    
 
     public static void main(String[] args) {
 

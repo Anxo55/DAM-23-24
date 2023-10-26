@@ -38,6 +38,8 @@ public class Gato {
     }
 
     
+
+    
     @Override
     public String toString() {
         return "Gato [nombre=" + nombre + ", edad=" + edad + "]";
