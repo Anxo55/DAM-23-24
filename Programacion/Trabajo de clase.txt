@@ -290,3 +290,12 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Correcion del ejercicio de condicionales 2.
 -Dimos varios ejemplos del metodo switch.
 
+------------
+|#27/10/2023#|
+ ------------
+-Estructura de repeticion.
+-Try catch probando el thread.sleep
+-Estructura desalto.
+-Mirar ejemplo7 donde salta el numero 5 usando el if y haciendo numero==5 con el continue.
+-Mirar el ejemplo8 en casa, el de las estrrllas.
+
