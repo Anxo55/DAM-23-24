@@ -5,3 +5,6 @@
 -Ver React y Angular.
 
 -Saber diferencias entre react y angular.
+
+-Frontend: Html, css, javaScripy, vue, react, angular
+-Backend:php, ruby, python, c++, java
