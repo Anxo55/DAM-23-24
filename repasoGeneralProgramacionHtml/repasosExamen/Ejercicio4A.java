@@ -67,13 +67,11 @@ public class Ejercicio4A {
         // . Interés (porcentaje): incrementa el saldo de la cuenta en el porcentaje pasado como parametro
 
         public int depositoDinero(int aumento) {
-            saldo = saldo + aumento;
-            return saldo;
+            return saldo+=aumento;
         }
 
         public int retiroDinero(int quitar) {
-            saldo = saldo - quitar;
-            return saldo;
+            return saldo-=quitar;
         }
 
         @Override

@@ -21,6 +21,9 @@ public class CuentaCorriente {
 
         cuenta2.retiroDinero(1000);
         System.out.println(cuenta2.toString());
+
+        cuenta3.retiroDinero(250);
+        System.out.println(cuenta3.toString());
         
     }
     
