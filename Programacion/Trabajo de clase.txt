@@ -299,3 +299,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Mirar ejemplo7 donde salta el numero 5 usando el if y haciendo numero==5 con el continue.
 -Mirar el ejemplo8 en casa, el de las estrrllas.
 
+------------
+|#30/10/2023#|
+ ------------
+-Dos ejemplos de tabla de multiplicar donde primero pedimos el numero y que nos devuelva su tabla.
+-El segundo ejemplo de tabla es donde nos sale todas las tablas seguidas de una en una.
+-Clase que me muestre para la tabla del 1 su primer valor, para la del dos, los dos primeros valores, y asi hasta llegar al 10.
+-Con el try catch en caso de tener un error no te salta y manda el mensaje que pones, ver el ejemplo12 t mas.
+
