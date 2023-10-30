@@ -303,3 +303,15 @@ c2:111 1 0111
 -El bus de direcciones es:
 -La cache es mas rapida q la ram.
 
+ ----------
+|30/10/2023|
+ ----------
+-Arquitectura von neuman.
+-Buses de datos.
+-Arquitectura Harvard.
+-Núcleo (Core) vs CPU.
+l4  caché.
+-Multihilo (hyperthreading).
+-SIMD.
+-GPU.
+
