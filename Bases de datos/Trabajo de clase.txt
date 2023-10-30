@@ -202,3 +202,12 @@ respecto al principal.
 
 -Antonio nos crea un classroom nuevo con todo libros con las asignaturas que vamos a ver con el.
 
+
+ ----------
+|30/10/2023|
+ ----------
+-Correccion de los ejercicios de paso a tabla.
+-Nos mandó hacer del paso del modelo entidad relacion al modelo realacional con el ejercicio 11 del tercer PDF.
+-Hacer ejercicios de entidad relacion de repaso y ver la teoria de repaso.
+
+
