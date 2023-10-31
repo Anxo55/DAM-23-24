@@ -307,3 +307,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Clase que me muestre para la tabla del 1 su primer valor, para la del dos, los dos primeros valores, y asi hasta llegar al 10.
 -Con el try catch en caso de tener un error no te salta y manda el mensaje que pones, ver el ejemplo12 t mas.
 
+------------
+|#31/10/2023#|
+ ------------
+-Ejercicios resueltos, donde hacemos el triangulo de caracteres.
+.Hacemos la clase que devuelve los 5 primeros numeros pares.
+-Hacemos el ejercicio resuelto de un numero amstrong de 3 cifras.
+-Ejercicio de hacer un numero amstrong pero de 4 cifras para entregar.
+
