@@ -42,6 +42,7 @@ termine el ejercicio 6 del primer word de ejercicios, despues hacer el segundo q
 -Despues hice los dos ultimos que mando en el pdf siguiente, donde tengo que corregir el primero por las entidades,
 que no muestra pero nos toca intuir para crearla y añadirla a labase de datos.
 -Terminar la practica 7 y la 8.
+-
 
  ------------
 |#25/09/2023#|
