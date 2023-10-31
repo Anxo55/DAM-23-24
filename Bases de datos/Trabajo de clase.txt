@@ -202,7 +202,6 @@ respecto al principal.
 
 -Antonio nos crea un classroom nuevo con todo libros con las asignaturas que vamos a ver con el.
 
-
  ----------
 |30/10/2023|
  ----------
@@ -210,4 +209,14 @@ respecto al principal.
 -Nos mandó hacer del paso del modelo entidad relacion al modelo realacional con el ejercicio 11 del tercer PDF.
 -Hacer ejercicios de entidad relacion de repaso y ver la teoria de repaso.
 
+ ----------
+|31/10/2023|
+ ----------
+-Normalizacion de las relaciones.
+	* Anomalias de inserccion.
+	* Anomalias de modificacion.
+	* Anomalias de borrado.
+-Normalizacion de los Modelos Relacionales.
+-Relaciones 1FN, 2FN, 3FN, FNBC, 4FN, 5FN (Forma Normal).
+-Revisar los ejemplos para hacer la practica.
 
