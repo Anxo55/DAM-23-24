@@ -315,3 +315,11 @@ l4  caché.
 -SIMD.
 -GPU.
 
+ ----------
+|01/11/2023|
+ ----------
+-El pdf de los apuntes ya está subido al calssroom.
+-FPU.
+-SoC (System on a Chip).
+-Placa Base y Periféricos(Motherboard).
+
