@@ -221,3 +221,10 @@ respecto al principal.
 -Relaciones 1FN, 2FN, 3FN, FNBC, 4FN, 5FN (Forma Normal).
 -Revisar los ejemplos para hacer la practica.
 
+ ----------
+|01/11/2023|
+ ----------
+-Volvemos a ver la normalización(1FN).
+-Sube un pdf con ejemplos y practica para hacer para repasar.
+-Hay que hacer los primeros que mandó y preguntar dudas.
+
