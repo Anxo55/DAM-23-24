@@ -315,3 +315,7 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Hacemos el ejercicio resuelto de un numero amstrong de 3 cifras.
 -Ejercicio de hacer un numero amstrong pero de 4 cifras para entregar.
 
+ ------------
+|#01/11/2023#|
+ ------------
+
