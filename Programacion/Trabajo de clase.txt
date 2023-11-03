@@ -311,11 +311,21 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 |#31/10/2023#|
  ------------
 -Ejercicios resueltos, donde hacemos el triangulo de caracteres.
-.Hacemos la clase que devuelve los 5 primeros numeros pares.
+-Hacemos la clase que devuelve los 5 primeros numeros pares.
 -Hacemos el ejercicio resuelto de un numero amstrong de 3 cifras.
 -Ejercicio de hacer un numero amstrong pero de 4 cifras para entregar.
 
  ------------
 |#01/11/2023#|
  ------------
+-Correccion del numero amstrong de 4 cifras.
+-Varios resueltos mas, entre ellos uno de pasar el caracter a minusculas.
+
+
+ ----------
+|03/11/2023|
+ ----------
+-Empezamos con los ejercicios propuestos, donde el primer hay que decir cual de los 3 numero que pasamos es el mayor, y
+ cual es el mas pequeño de los 3.
+-
 
