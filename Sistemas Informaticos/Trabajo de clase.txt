@@ -323,3 +323,10 @@ l4  caché.
 -SoC (System on a Chip).
 -Placa Base y Periféricos(Motherboard).
 
+ ----------
+|03/11/2023|
+ ----------
+-Bios.
+-UEFI.
+-Practica de entrar en la bios del ordenador.
+
