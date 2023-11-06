@@ -330,3 +330,28 @@ l4  caché.
 -UEFI.
 -Practica de entrar en la bios del ordenador.
 
+ ----------
+|06/11/2023|
+ ----------
+-Vimos la practica de la bios en clase de cada uno de los compañeros.
+-Mas teoria de la BIOS y UEFI.
+-Procesador (CPU).	
+	*Frecuencia de reloj.
+	*Numeros de nucleos.
+	*Numero de hilos.
+	*Zocalo.
+	*Unidades funcionales.
+	*Consumo.
+-Otros:
+	*Disipador.
+	*Ventilador.
+	*Linea de Producto(Intel, AMD)
+
+
+-Registros dentro de la CPU. 
+-Vista de la CPU en el ordenador en el administrador de tareas.
+-Placa base.
+
+-Zocalo(Socket) vs encapsulado (PASTA).
+	*Lugar donde se instala el procesador.
+
