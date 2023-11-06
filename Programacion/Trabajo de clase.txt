@@ -327,5 +327,13 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ----------
 -Empezamos con los ejercicios propuestos, donde el primer hay que decir cual de los 3 numero que pasamos es el mayor, y
  cual es el mas pequeño de los 3.
--
+-Hicimos por ultimo el  resuelto7 donde usamos un bucle for hasta 10 y mostrandolo con un switch.
+
+ ----------
+|06/11/2023|
+ ----------
+-Practica del lucky number.
+-Alguna practica mas de los triangulos, dejando espacios en blanco y demas.
+-Ver la clase del lucky para repasarla, y el resto.
+-Hacer las practicas de repaso de chatGPT.
 
