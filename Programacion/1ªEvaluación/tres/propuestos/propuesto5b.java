@@ -36,12 +36,18 @@ public class propuesto5b {
         int suma = dia+mes+año;
         int lucky = sumaDigitos(suma);
 
-        if (lucky< 10) {
-             System.out.println("lucky es: "+lucky);
-        }else{
+        while (lucky > 9) {
             lucky = sumaDigitos(lucky);
-            System.out.println("lucky es: "+lucky);
         }
+
+        System.out.println("Lucky es: "+lucky);
+
+        // if (lucky< 10) {
+        //      System.out.println("lucky es: "+lucky);
+        // }else{
+        //     lucky = sumaDigitos(lucky);
+        //     System.out.println("lucky es: "+lucky);
+        // }
         
     }
     

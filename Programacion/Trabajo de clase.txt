@@ -337,3 +337,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Ver la clase del lucky para repasarla, y el resto.
 -Hacer las practicas de repaso de chatGPT.
 
+ ----------
+|07/11/2023|
+ ----------
+-Vista del porpuesto5 del metodo lucky con un while.
+-Clase digitos donde usamos metodos iterativos y repetitivos de numeros.
+-Tambien metodo recursivo para dar la vuelta el numero que pasamos.
+-Tarea del amnstrong propuesto, que da mal en los numeros que son amstrong.
+
