@@ -244,3 +244,10 @@ respecto al principal.
 -Hacer las practicas 8 y 9.
 -Terminar las practicas en casa.
 
+ ----------
+|08/11/2023|
+ ----------
+-Seguimos con las practicas de FN del segundo boletin, hacer.
+-Terminado el ejercicio 8 del segundo pdf, donde ya con un metodo hicimos hasta la 3FN.
+-Ahora con la practica 9 del segundo pdf, hacer todas las formas normales lo mas reducidas posibles.
+
