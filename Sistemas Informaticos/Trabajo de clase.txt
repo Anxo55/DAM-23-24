@@ -355,3 +355,17 @@ l4  caché.
 -Zocalo(Socket) vs encapsulado (PASTA).
 	*Lugar donde se instala el procesador.
 
+----------
+|08/11/2023|
+ ----------
+-Notas de la practica de la BIOS-UEFI.
+-Vimos como colocar la pasta termica.
+-Chipset.
+-Administrador de dispositivos.
+-Memoria principal.
+-DRAM vs RAM.
+-Latencia (CAS).
+-DDR4 - DDR5.
+-Mips.
+-ISA.
+
