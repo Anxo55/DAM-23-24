@@ -345,3 +345,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Tambien metodo recursivo para dar la vuelta el numero que pasamos.
 -Tarea del amnstrong propuesto, que da mal en los numeros que son amstrong.
 
+ ----------
+|08/11/2023|
+ ----------
+-Correccion de la practica de Amstrong de los propuestos.
+-Boletin de practica de ejercicios de repaso.
+-Boletin entregado en el classroom.
