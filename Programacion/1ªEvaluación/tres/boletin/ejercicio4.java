@@ -14,14 +14,14 @@ public class ejercicio4 {
         System.out.println("Dame un numero positivo: ");
         numero = sc.nextInt();
        
-        if (numero>0) {
+        if (numero>=0) {
             System.out.println("El numero "+numero+" es positivo");
             contador++;
         }else if(numero < 0){
             System.out.println("Introduciste un numero negativo, cerrando el programa...");
         }
 
-        } while (numero>0);
+        } while (numero>=0);
         
         System.out.println("El total de numeros positicos fue: "+contador);
         

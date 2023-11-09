@@ -351,3 +351,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Correccion de la practica de Amstrong de los propuestos.
 -Boletin de practica de ejercicios de repaso.
 -Boletin entregado en el classroom.
+
+ ----------
+|09/11/2023|
+ ----------
+-Manda hacer otro boletin que es el segundo, con otras 7 practicas.
+-Hecho el segundo boletin, hacerlo de repaso en casa despues de descansar-
