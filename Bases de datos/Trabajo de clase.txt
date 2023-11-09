@@ -254,5 +254,8 @@ respecto al principal.
  ----------
 |09/11/2023|
  ----------
--
+-Correccion del ejercicio 8 del segundo pdf.
+-Terminada la practica 9, seguir con las dos ultimas.
+-Empezando la practica 10 del segundo pdf.
+-Terminada la practica 10.
 
