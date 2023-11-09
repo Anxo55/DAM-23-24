@@ -369,3 +369,10 @@ l4  caché.
 -Mips.
 -ISA.
 
+----------
+|09/11/2023|
+ ----------
+-boot ROM.e
+-ROM de arranque.
+-Practica para poner las partes de una placa base.
+
