@@ -356,4 +356,10 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 |09/11/2023|
  ----------
 -Manda hacer otro boletin que es el segundo, con otras 7 practicas.
--Hecho el segundo boletin, hacerlo de repaso en casa despues de descansar-
+-Hecho el segundo boletin, hacerlo de repaso en casa despues de descansar.
+
+ ----------
+|09/11/2023|
+ ----------
+-Ejercicio practica de los numeros romanos, corregir para que de bien con el 4 el 9 etc.
+
