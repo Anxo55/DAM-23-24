@@ -25,21 +25,41 @@ public class propuesto8 {
                 romano+="M";
                 numero-=1000;
             }
+            while (numero>=900) {
+                romano+="CM";
+                numero-=900;
+            }
             while (numero>=500) {
                 romano+="D";
                 numero-=500;
+            }
+            while (numero>=400) {
+                romano+="CD";
+                numero-=400;
             }
             while (numero>=100) {
                 romano+="C";
                 numero-=100;
             }
+            while (numero>=90) {
+                romano+="XC";
+                numero-=90;
+            }
             while (numero>=50) {
                 romano+="L";
                 numero-=50;
             }
+            while (numero>=40) {
+                romano+="XL";
+                numero-=40;
+            }
             while (numero>=10) {
                 romano+="X";
                 numero-=10;
+            }
+            while (numero>=19) {
+                romano+="IX";
+                numero-=9;
             }
             while (numero>=5) {
                 romano+="V";
