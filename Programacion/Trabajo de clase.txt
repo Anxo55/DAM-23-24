@@ -363,3 +363,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ----------
 -Ejercicio practica de los numeros romanos, corregir para que de bien con el 4 el 9 etc.
 
+ ----------
+|13/11/2023|
+ ----------
+-Practica del ejercicio del numero Primo.
+
+
