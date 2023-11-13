@@ -376,3 +376,14 @@ l4  caché.
 -ROM de arranque.
 -Practica para poner las partes de una placa base.
 
+----------
+|13/11/2023|
+ ----------
+-Buses del ordenador(PCI, PCI Express).
+-Ranuras de expansion.
+-Conectores externos.
+-Canal TMDS.
+-thunderbolt.
+-Thunderbolt 5.
+-0x computer.
+
