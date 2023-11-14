@@ -263,5 +263,13 @@ respecto al principal.
 |13/11/2023|
  ----------
 -Revisar ejercicio 11 del  boletin, hacer las preguntas de abajo para practicar tambien.
--Correccion del primer boletin de ejercicio s de FN.
+-Correccion del primer boletin de ejercicios de FN.
+
+ ----------
+|14/11/2023|
+ ----------
+-Correccion de los ejercicios de FN.
+-Terminar la practica 11 del segundo boletin de FN.
+-Subidas las correcciones de el segundo pdf.
+-Boletin 3 de FN.
 
