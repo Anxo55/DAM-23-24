@@ -368,4 +368,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ----------
 -Practica del ejercicio del numero Primo.
 
+ ----------
+|14/11/2023|
+ ----------
+-Hecho el propuesto12.
+-La practica del vampiro todavia sin hacer.
+-Creamos la carpeta de sucesiones en el bloque 3, y le creamos la clase de aritmetica.
+-Hacemos la practica aritmetica pero con arrays.
 

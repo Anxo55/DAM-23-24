@@ -2,7 +2,7 @@ package tres.propuestos;
 
 import java.util.Scanner;
 
-public class propeusto9 {
+public class propuesto9 {
     
  public static void main(String[] args) {
 
