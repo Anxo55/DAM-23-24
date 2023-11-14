@@ -5,7 +5,7 @@ echo "</br>";
 
 $numero1 = 6;
 $numero2 = 2;
-$opcion=2;
+$opcion=4;
 echo "[1] suma, [2] resta, [3] multiplicacion, [4] division";
 echo "</br>";
 
