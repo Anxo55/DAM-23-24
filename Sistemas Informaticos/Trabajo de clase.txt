@@ -387,3 +387,15 @@ l4  caché.
 -Thunderbolt 5.
 -0x computer.
 
+ ----------
+|13/11/2023|
+ ----------
+-Conectores Internos.
+-Conector ATX.
+-Cuantos tipos de errores puede representar con esos leds.
+-Oscilador.
+-Oscilador electrónico.
+-Atmega328.
+-RCA o TOSLINK.
+-Practica de kahoots con conectores puertos y demás.
+
