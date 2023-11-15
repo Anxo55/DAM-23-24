@@ -273,3 +273,8 @@ respecto al principal.
 -Subidas las correcciones de el segundo pdf.
 -Boletin 3 de FN.
 
+ ----------
+|15/11/2023|
+ ----------
+-Continuar con el ultimo pdf de Normalizacion.
+
