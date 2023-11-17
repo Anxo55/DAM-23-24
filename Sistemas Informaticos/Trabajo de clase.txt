@@ -399,3 +399,12 @@ l4  caché.
 -RCA o TOSLINK.
 -Practica de kahoots con conectores puertos y demás.
 
+ ----------
+|13/11/2023|
+ ----------
+-Pedro trajo una placa base para ver las partes y demás.
+-SPDIF, Tschuko.
+-En el examen entra el diagrama de von neuman.
+-Aleatorio, cabezal(RPM), magnetico (Del disco duro).
+-Tipo nanz
+
