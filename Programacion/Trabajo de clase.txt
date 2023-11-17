@@ -376,3 +376,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Creamos la carpeta de sucesiones en el bloque 3, y le creamos la clase de aritmetica.
 -Hacemos la practica aritmetica pero con arrays.
 
+ ----------
+|15/11/2023|
+ ----------
+-Practica de Geometrica donde hacemos una progesion y despues se recorre y muestra la suma de todos sus valores.
+-Ejercicio de fibonacci.
+
