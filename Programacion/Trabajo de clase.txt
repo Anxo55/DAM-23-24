@@ -382,3 +382,8 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Practica de Geometrica donde hacemos una progesion y despues se recorre y muestra la suma de todos sus valores.
 -Ejercicio de fibonacci.
 
+ ----------
+|17/11/2023|
+ ----------
+-Practica de programacion.
+
