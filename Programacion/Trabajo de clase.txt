@@ -388,3 +388,10 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Practica de programacion.
 -Capitulo 4 de programacion, con mas POO.
 
+ ----------
+|20/11/2023|
+ ----------
+-Niveles de acceso(public, private, protected, no especifico(acceso en su paquete)).
+-Copia superficial vs copia profunda en java.
+
+
