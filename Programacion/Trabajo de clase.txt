@@ -386,4 +386,5 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 |17/11/2023|
  ----------
 -Practica de programacion.
+-Capitulo 4 de programacion, con mas POO.
 
