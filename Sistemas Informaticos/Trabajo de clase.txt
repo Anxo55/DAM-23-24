@@ -408,3 +408,10 @@ l4  caché.
 -Aleatorio, cabezal(RPM), magnetico (Del disco duro).
 -Tipo nanz
 
+ ----------
+|20/11/2023|
+ ----------
+-Diferencias entre Nas y San.
+-Raid.
+-Raid 0.
+
