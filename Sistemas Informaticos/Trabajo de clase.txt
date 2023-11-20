@@ -413,5 +413,7 @@ l4  caché.
  ----------
 -Diferencias entre Nas y San.
 -Raid.
--Raid 0.
+-Raid 0,1,5,6,10.
+-Pregunta examen, la cpu y la tarjeta grafica no son lo mismo.
+-Interface de sonido.
 
