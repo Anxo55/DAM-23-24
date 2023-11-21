@@ -6,19 +6,22 @@ public class Rectangulo implements Cloneable{
     
     private int ancho = 0;
     private int alto = 0;
+    private String nombre;
 
-    Rectangulo(int ancho, int alto) {
+    Rectangulo(int ancho, int alto, String nombre) {
         this.ancho = ancho; //se puede omitir el this
         this.alto = alto;
+        this.nombre=nombre;
     }
 
     //Constructor de copia
     Rectangulo(Rectangulo rectangulo) {
         this.ancho=rectangulo.ancho;
         this.alto=rectangulo.alto;
+        this.nombre = rectangulo.nombre;
     }
 
-   public Object Clone() {
+   public Rectangulo Clone() {
     Object objeto = null;
     try {
         objeto = super.clone();
@@ -43,13 +46,34 @@ public class Rectangulo implements Cloneable{
 
     public Rectangulo incrementaAlto() {
         this.alto++;
-        Rectangulo fake = new Rectangulo(4, 4);
-        return fake;
+        // Rectangulo fake = new Rectangulo(4, 4);
+        return this;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
     @Override
     public String toString() {
-        return "Rectangulo [ancho=" + ancho + ", alto=" + alto + "]";
+        return "Rectangulo [ancho=" + ancho + ", alto=" + alto + ", nombre=" + nombre + "]";
+    }
+    
+    @Override
+    public boolean equals(Object obj) {
+        // // TODO Auto-generated method stub
+        // return super.equals(obj);
+        Rectangulo r = (Rectangulo) obj;
+        if(this.alto==r.alto && this.ancho == r.ancho && this.nombre == r.nombre) {
+            return true;
+        }else{
+            return false;
+        }
+        
     }
     
 }

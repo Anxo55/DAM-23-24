@@ -4,7 +4,7 @@ public class testRectangulo {
 
     public static void main(String[] args) {
 
-        Rectangulo rectangulo1 = new Rectangulo(3, 5);
+        Rectangulo rectangulo1 = new Rectangulo(3, 5,"Pepe");
         // Rectangulo rectangulo2 = new Rectangulo(10, 20);
 
         System.out.println("ancho: "+rectangulo1.getAncho());

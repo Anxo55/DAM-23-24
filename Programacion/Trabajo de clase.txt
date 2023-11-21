@@ -394,4 +394,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Niveles de acceso(public, private, protected, no especifico(acceso en su paquete)).
 -Copia superficial vs copia profunda en java.
 
+ ----------
+|21/11/2023|
+ ----------
+-Mas ejemplos del 4 capitulo de programacion.
+-Hacemos varias practicas con el Rectangulo, y sobre todo con los testeos para ir comprobando y demás.
 
