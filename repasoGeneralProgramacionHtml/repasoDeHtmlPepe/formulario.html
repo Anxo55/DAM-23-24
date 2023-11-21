@@ -39,7 +39,7 @@
             <input type="text" name="nombre" id="user_nombre">
             <br><br>
             <label for="lastname">Apellido:</label>
-            <input type="text" name="lastname" id="user_lastname">
+            <input type="text" name="lastname" id="user_lastname" size="50">
             <br><br>
             <label for="password">Contraseña:</label>
             <input type="password" name="password" id="user_password">
@@ -56,9 +56,23 @@
             <input type="file" name="adjunto" id="">
             <br><br>
             <!-- <input type="hidden" name="" id=""> -->
-            <button type="button" style="">Enviar</button> <input type="checkbox" name="checkbox" id="user_checkbox">
+            <button type="button">Enviar</button> <input type="checkbox" name="checkbox" id="user_checkbox">
             <!-- Checkbox para marcar en una casilla. -->
+            <!-- <input type="submit" name="Guardar cambios" id="Guardar cambios"> -->
+            <input type="submit" value="Guardar cambios"><br><br>
 
+
+
+            
+            <label for="so3">Sistema operativo</label>
+            <select name="so3" id="so3" multiple="multiple">
+                <option value="windows" selected="selected">Windows</option>
+                <option value="mac">Mac</option>
+                <option value="Android">Android</option>
+            </select>
+
+            <fieldset></fieldset>
+            <!-- con la etiqueta de arriba separas los formularios como prefieras, con algunos datos como nombre, apellido, etc -->
 
         </form>
 
