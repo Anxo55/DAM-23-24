@@ -12,11 +12,23 @@ public class ejercicio4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int tamanho;
+       
 
         System.out.println("Dame el tamaño del array: ");
         tamanho = sc.nextInt();
 
+        int[] miArray = new int[tamanho];
         
+        System.out.print("Ingrese el número para generar los múltiplos: ");
+        int numero = sc.nextInt();
+        
+        for (int i = 0; i < miArray.length; i++) {
+            miArray[i] = numero * (i + 1);
+        }
+
+        System.out.print("Elementos del arreglo: ");
+        for (int elemento : miArray) {
+            System.out.print(elemento + " ");
+        }
     }
-    
 }
