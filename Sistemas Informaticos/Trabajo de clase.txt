@@ -417,3 +417,16 @@ l4  caché.
 -Pregunta examen, la cpu y la tarjeta grafica no son lo mismo.
 -Interface de sonido.
 
+ ----------
+|22/11/2023|
+ ----------
+-Raspberry pi.
+-Tipos de cajas de ordenador.
+-Kahoot de discos y demás.	
+-Video de operating systems: Crash course computer Science.
+-Empezamos con el tema 3 donde se hablará de los sitemas operativos.
+-(Hardware, firmware, sistema operativo, aplicacion, usuario).
+-Estructura y componentes (kernel. shell, sistema de archivos, controladores de dispositivos (drivers)).
+-(Windowa + r).
+-En el cmd poniendo "tree" nos muestra todo el contenido por carpetas.
+
