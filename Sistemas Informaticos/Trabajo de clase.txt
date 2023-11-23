@@ -430,3 +430,23 @@ l4  caché.
 -(Windowa + r).
 -En el cmd poniendo "tree" nos muestra todo el contenido por carpetas.
 
+ ----------
+|23/11/2023|
+ ----------
+-Unidad flash usb sistema de archivos.
+-ntfs.
+
+-Administracion de tareas.
+	*Monotarea.
+	*Multitarea.	
+-Administracion de usuario.
+	*Monousuario.
+	*Multiusuario.
+-Manejo de recursos
+	*Centralizado.
+	*Descentralizado.
+-Estructura interna.
+	*Monolitico.
+	*Cliente-servidor.
+	*Jerarquico.
+
