@@ -289,3 +289,9 @@ respecto al principal.
  ----------
 -Correcion del boletin 3 de formalizacion.
 
+ ----------
+|23/11/2023|
+ ----------
+-Empezamos con MySql.
+-Importamos northwind en el phpMyAdmin.
+
