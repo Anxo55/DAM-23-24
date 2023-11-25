@@ -13,6 +13,19 @@ public class testLibro2 {
         if(r1.equals(r3)) {
             System.out.println("Iguales r1 y r3(equals)");
         }
+
+        // Ver que es el metodo hashCode
+        // System.out.println(r1.hashCode());
+        // System.out.println(r2.hashCode());
+        // System.out.println(r3.hashCode());
+
+        System.out.println(r1.toString());
+        System.out.println(r2.toString());
+        System.out.println(r3.toString());
+
+        Rectangulo r4 = new Rectangulo(4, 7, "curb");
+        System.out.println(r4.toString());
+        System.out.println(r4.equals(r2));
         
     }
     

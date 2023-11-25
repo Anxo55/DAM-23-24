@@ -27,7 +27,7 @@ public class ejercicio3 {
             
         }
 
-        double media =  suma / contador;
+        double media =  (double) suma / contador;
 
         System.out.println("La media de los valores es: "+media);
         

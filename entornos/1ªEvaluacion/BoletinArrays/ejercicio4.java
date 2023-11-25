@@ -13,7 +13,6 @@ public class ejercicio4 {
         Scanner sc = new Scanner(System.in);
         int tamanho;
        
-
         System.out.println("Dame el tamaño del array: ");
         tamanho = sc.nextInt();
 

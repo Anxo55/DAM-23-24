@@ -33,7 +33,7 @@
 
         <marquee behavior="" direction=""><h1>Hola Mundo</h1></marquee>
 
-        <form action="">
+        <form action="/action" method="post">
 
             <label for="name">Nombre:</label>
             <input type="text" name="nombre" id="user_nombre">
@@ -70,6 +70,11 @@
                 <option value="mac">Mac</option>
                 <option value="Android">Android</option>
             </select>
+            <br><br>
+            <input type="color" id="favcolor" name="favcolor">
+            <input type="date" name="birthday" id="birthday"><br><br>
+            <input type="tel" name="phone" id="phone" placeholder="123-456-789" pattern="[0-9]{3}-[0-9]{3}-[0-9]{3}"><br><br>
+            <input type="week" name="week" id="week">
 
             <fieldset></fieldset>
             <!-- con la etiqueta de arriba separas los formularios como prefieras, con algunos datos como nombre, apellido, etc -->

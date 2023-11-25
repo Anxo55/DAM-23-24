@@ -400,3 +400,21 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Mas ejemplos del 4 capitulo de programacion.
 -Hacemos varias practicas con el Rectangulo, y sobre todo con los testeos para ir comprobando y demás.
 
+ ----------
+|22/11/2023|
+ ----------
+-Utilizamos el hascode en la clase de rectangulo.
+-Revisar como funciona, ya que se utiliza como el metodo equals.
+-Hibernate.
+-Como esta escrito el equals de cadenas.
+-Clase testStrings.
+-Clase cohete.
+
+ ----------
+|23/11/2023|
+ ----------
+-Paquete de recursos en el tema 4. 
+-Clase potencia con y sin metodo, recordar que la potencia tiene que ser igual a 1.
+-Diferencia entre valor y referencia. 
+-El mismo codigo pero en recursivo.
+
