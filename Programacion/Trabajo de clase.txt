@@ -418,3 +418,8 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Diferencia entre valor y referencia. 
 -El mismo codigo pero en recursivo.
 
+ ----------
+|24/11/2023|
+ ----------
+-Prueba de repaso de numero decimal a binario.
+
