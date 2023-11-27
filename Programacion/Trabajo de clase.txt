@@ -423,3 +423,12 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ----------
 -Prueba de repaso de numero decimal a binario.
 
+ ----------
+|27/11/2023|
+ ----------
+-Correccion de la practica de decimal a binario.
+-Practica de Fibonacci en el capitulo 4 con metoodo iterativo.
+-Tambien pasamos la clase Aritmetica y la clase Geometrica.
+-Hacemos en la clase de Fibonnacci el metodo iterativo y el recursivo.
+-Corregir la piramide 2 que está mal copiada del pdf.
+

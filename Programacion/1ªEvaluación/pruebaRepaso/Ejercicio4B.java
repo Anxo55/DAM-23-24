@@ -17,6 +17,7 @@ public class Ejercicio4B {
         numero = sc.nextInt();
 
        System.out.println("El numero decimal " + numero + " en binario es: " + decimalToBinario(numero));
+       System.out.println("El numero decimal " + numero + " en binario es: " + decimalToBinarioRecursivo(numero));
     }
 
     public static String decimalToBinario(int numero) {
@@ -34,4 +35,24 @@ public class Ejercicio4B {
 
         return binario;
     }
+
+    public static String decimalToBinarioRecursivo(int numero) {
+        if (numero == 0) {
+            return "0";
+        }
+    
+        return construirBinarioRecursivo(numero, "");
+    }
+    
+    private static String construirBinarioRecursivo(int numero, String binario) {
+        if (numero == 0) {
+            return binario;
+        }
+    
+        int residuo = numero % 2;
+        binario = residuo + binario;
+    
+        return construirBinarioRecursivo(numero / 2, binario);
+    }
+
 }
