@@ -295,3 +295,14 @@ respecto al principal.
 -Empezamos con MySql.
 -Importamos northwind en el phpMyAdmin.
 
+ ----------
+|27/11/2023|
+ ----------
+-MySql.
+-Sentencias que están formadas por cláusulas.
+-SELECT campo/s.
+ FROM tabla/s.
+ WHERE condicion/es.
+-Probando alguna consulta.
+-Primera practica donde sacamos los precios de los productos de forma ascendente.
+
