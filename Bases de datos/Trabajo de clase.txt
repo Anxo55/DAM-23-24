@@ -306,3 +306,12 @@ respecto al principal.
 -Probando alguna consulta.
 -Primera practica donde sacamos los precios de los productos de forma ascendente.
 
+ ----------
+|28/11/2023|
+ ----------
+-CRUD.
+-Clausula DISTINC la que elimina los registros iguales. Unicamente cuando se utiliza una única informacion.
+-ALL(Valor predeterminado).
+-Usando la cluasula AS para ponerle un nombre al atributo de la tabla como al Unitprice AS 'Precio Unitario', y te mostrará
+con el nombre de Precio Unitario.
+
