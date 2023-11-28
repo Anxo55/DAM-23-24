@@ -432,3 +432,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Hacemos en la clase de Fibonnacci el metodo iterativo y el recursivo.
 -Corregir la piramide 2 que está mal copiada del pdf.
 
+ ----------
+|28/11/2023|
+ ----------
+-black box para hacer copia.
+-Ejercicio TransfomarBase, probado con el debugging, ver algo acerca de este.
+

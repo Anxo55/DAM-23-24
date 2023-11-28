@@ -5,30 +5,29 @@ import java.util.Scanner;
 public class Piramide2 {
 
     public static int elemento(int fila, int columna) {
-        if(columna == 1)
-        return 1;
+        if(fila < 1 || columna < 1) {
+            return 0;
+        }
 
-        if(columna < 1 || columna> fila )
-        return 0;
-
-        return elemento(fila-1, columna) + elemento(fila-1, columna-1);
+        if(columna == 1){
+            return 1;
+        }
+        return elemento(-1, columna)+elemento(fila-1, columna+1)+elemento(fila-1, columna-2);
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int numfilas = 5;
+        int numfilas = 4;
+
         for(int i=1; i<numfilas+1; i++) {
-            for(int e = 0; e<numfilas-i; e++) {
+            for(int e = 0; i<numfilas-i; e++)
                 System.out.print(" ");
-                for(int j=1; j<numfilas+1; j++) {
+                for(int j=1; j<(2*numfilas+1); j++) {
                     int dato = elemento(i, j);
                     if(dato > 0)
-                    System.out.print(dato+" ");
-                } 
+                        System.out.print(dato+"");
+                }
                 System.out.println("");
-            }
         }
-        
     }
     
 }
