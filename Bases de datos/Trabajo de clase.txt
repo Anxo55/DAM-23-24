@@ -315,3 +315,8 @@ respecto al principal.
 -Usando la cluasula AS para ponerle un nombre al atributo de la tabla como al Unitprice AS 'Precio Unitario', y te mostrará
 con el nombre de Precio Unitario.
 
+ ----------
+|29/11/2023|
+ ----------
+-Practicas de MySql, subido al classroom(Practica2).
+
