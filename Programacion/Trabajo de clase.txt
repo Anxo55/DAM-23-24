@@ -438,3 +438,9 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -black box para hacer copia.
 -Ejercicio TransfomarBase, probado con el debugging, ver algo acerca de este.
 
+ ----------
+|29/11/2023|
+ ----------
+-Termina la practica de TransformaBaseIterativo.
+-Empezamos los ejercicio propuestos.
+
