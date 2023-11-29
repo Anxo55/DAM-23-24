@@ -461,4 +461,8 @@ l4  caché.
 -Continuamos con el trabajo de clase.
 -Hanlar sonre las distribuciones y demás.
 -Terminar trabajo en casa.
-
+ ----------
+|29/11/2023|
+ ----------
+-Entrega del trabajo por grupos de Sistemas Operativos.
+-MIDI MESSAGE.
