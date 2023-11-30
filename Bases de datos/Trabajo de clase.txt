@@ -320,3 +320,9 @@ con el nombre de Precio Unitario.
  ----------
 -Practicas de MySql, subido al classroom(Practica2).
 
+ ----------
+|30/11/2023|
+ ----------
+-1 2 3 9 10 11 14 16 17(Mas ejercicios).
+-Primer boletin hecho de MySql en la practica2.
+
