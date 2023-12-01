@@ -444,3 +444,10 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Termina la practica de TransformaBaseIterativo.
 -Empezamos los ejercicio propuestos.
 
+ ----------
+|01/12/2023|
+ ----------
+-Clase Pez y Espada, primera practica de herencia.
+-Tambien creamos al final la clase Martillo.
+-Por ultimo hacemos la clase testMarino donde crearemos algunos objetos.
+
