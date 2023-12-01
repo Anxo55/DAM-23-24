@@ -466,3 +466,9 @@ l4  caché.
  ----------
 -Entrega del trabajo por grupos de Sistemas Operativos.
 -MIDI MESSAGE.
+
+ ----------
+|01/12/2023|
+ ----------
+-Presentacion del resto de grupos de clase.
+
