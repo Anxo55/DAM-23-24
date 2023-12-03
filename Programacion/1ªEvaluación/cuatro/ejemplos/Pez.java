@@ -1,7 +1,7 @@
 package cuatro.ejemplos;
 
 public class Pez {
-    
+
 protected String nombre;
 
 	int longitud;
@@ -44,7 +44,7 @@ protected String nombre;
 
 	
 	public void nada() {
-		System.out.println(this.nombre+" estoy nadando glu");
+		System.out.println("Soy "+this.nombre+", estoy nadando glu");
 	}
 
 	public boolean soyComestible() {

@@ -4,11 +4,11 @@ public class Martillo extends Pez{
 
     private double longitud_nariz;
 
-    public martillo(){
-
+    public Martillo(){
+        super();
     }
 
-    public martillo(String nombre, int longitud, float peso, double longitud_nariz) {
+    public Martillo(String nombre, int longitud, float peso, double longitud_nariz) {
         super(nombre, longitud, peso);
         this.longitud_nariz = longitud_nariz;
     }
@@ -37,7 +37,7 @@ public class Martillo extends Pez{
 
     @Override
     public String toString() {
-        return "martillo [longitud_nariz=" + longitud_nariz + super.toString()+"]";
+        return "Martillo [longitud_nariz=" + longitud_nariz + super.toString()+"]";
     }
 
 }

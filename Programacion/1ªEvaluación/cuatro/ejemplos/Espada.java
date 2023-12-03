@@ -43,7 +43,7 @@ private int numero_aletas;
 	@Override
 	public String toString() {
 		// String prin = super.toString();
-		return "Pez [nombre=" + nombre + ", longitud=" + longitud + ", peso=" + peso + super.toString() "]";
+		return "Espada [nombre=" + nombre + ", longitud=" + longitud + ", peso=" + peso + super.toString() +"]";
 	}
 
 }

@@ -435,7 +435,7 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
  ----------
 |28/11/2023|
  ----------
--black box para hacer copia.
+-Black box para hacer copia.
 -Ejercicio TransfomarBase, probado con el debugging, ver algo acerca de este.
 
  ----------
@@ -450,4 +450,6 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Clase Pez y Espada, primera practica de herencia.
 -Tambien creamos al final la clase Martillo.
 -Por ultimo hacemos la clase testMarino donde crearemos algunos objetos.
+-Prueba del metodo nadar con cada uno de los peces creados
+-Con cada uno de los peces al tenre la herencia si le introducimos algo mas en el metodo en cada clase lo mostrara tambien
 
