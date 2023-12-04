@@ -472,3 +472,15 @@ l4  caché.
  ----------
 -Presentacion del resto de grupos de clase.
 
+ ----------
+|04/12/2023|
+ ----------
+-Terminaremos el tema 3 sobre los Sistemas Operativos.
+-ODOS.
+-OEM.
+-Ethernet / RJ45.
+-Mac address(Identificador único de 48 bits).
+-ipconfig/all.
+-Fedora no es una distribucion empresarial de Linux.
+-Interfaz entre el nucleo del sistema operativo y el usuario: SHELL.
+
