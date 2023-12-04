@@ -326,3 +326,13 @@ con el nombre de Precio Unitario.
 -1 2 3 9 10 11 14 16 17(Mas ejercicios).
 -Primer boletin hecho de MySql en la practica2.
 
+ ----------
+|04/12/2023|
+ ----------
+-Terminar las practicas de MySql.
+-Terminadas las practicas del segundo boletin de MySql, también podemos hacer las que no mandó para repasar.
+-Repetir todas las practicas a futuro.
+-Funcion date diff.
+-La funcion round es para redondear los valores decimales.
+-Creo la practica(Practica4) donde vemos varias funciones de MySql.
+

@@ -76,11 +76,6 @@ SELECT OrderID AS NumeroFactura,
 FROM orders
 WHERE Freight > 10;
 
-#18 pruebas con Antonio
+#18
 SELECT MIN(UnitPrice), MAX(UnitPrice), AVG(UnitPrice), SUM(UnitPrice)/COUNT(*)
 FROM products;
-
-
-#19 empleados
-SELECT CONCAT(firstName, lastName, "@NorthWind.com")
-FROM Employees;
