@@ -336,3 +336,13 @@ con el nombre de Precio Unitario.
 -La funcion round es para redondear los valores decimales.
 -Creo la practica(Practica4) donde vemos varias funciones de MySql.
 
+ ----------
+|05/12/2023|
+ ----------
+-Vamos a usar la BD de EmpresasABC.
+-En la funcion round pides los decimales que quieres sacar por la consola.
+-Tambien podemos usar la funcion truncate que redondea también.
+-Formular desviacion tipica, usando la funcion (STDDEV) mostramos la desviación típica.
+-Con la funcion sqrt sacamos la raiz cuadrado de X numero.
+-La función Pow, eleva una base a un exponente: Ejemplo: POW(5,2).
+
