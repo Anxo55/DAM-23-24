@@ -453,3 +453,11 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Prueba del metodo nadar con cada uno de los peces creados
 -Con cada uno de los peces al tenre la herencia si le introducimos algo mas en el metodo en cada clase lo mostrara tambien
 
+
+ ----------
+|05/12/2023|
+ ----------
+-Entra el equals fijo en el examen.
+-Mirar numeros novios y amigos.
+-Ultimo ejemplo clase Bebe, donde implemente dos constructores y un metodo.
+
