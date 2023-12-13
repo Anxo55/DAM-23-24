@@ -461,3 +461,8 @@ la informacion a la clase testCoche, para cuando se ejecute vea los valores y mu
 -Mirar numeros novios y amigos.
 -Ultimo ejemplo clase Bebe, donde implemente dos constructores y un metodo.
 
+EXAMEN PRIMERA EVALUACON:
+-Numeros gemelos y numeros perfectos.
+-MCD, MCM
+-Numeros novios, y numeros amigos.
+
