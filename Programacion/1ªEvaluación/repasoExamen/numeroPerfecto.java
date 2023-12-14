@@ -16,7 +16,7 @@ public static void main(String[] args) {
             System.out.println(numero + " es un número perfecto.");
         } else {
             System.out.println(numero + " no es un número perfecto.");
-        }
+        } 
 
         scanner.close();
     }
