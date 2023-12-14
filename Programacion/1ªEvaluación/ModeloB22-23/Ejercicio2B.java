@@ -1,10 +1,10 @@
-package repasoExamen;
+//package ModeloB22-23;
 
 import java.util.Scanner;
 
-public class numerosNovios {
+public class Ejercicio2B {
 
-//	Introducir dos números por teclado y mostrar si son novios o no.
+    //	Introducir dos números por teclado y mostrar si son novios o no.
 //	Con un ejemplo es más fácil de entender. 48 y 75 son números novios
 //	porque: La suma de los divisores de cada número por separado es
 //	igual a la suma de esos dos números más uno.
@@ -51,5 +51,3 @@ public class numerosNovios {
 		sc.close();
 	}
 }
-    
-
