@@ -22,7 +22,9 @@ public class Rectangulo implements Cloneable{
     }
 
    public Rectangulo Clone() {
+
     Object objeto = null;
+    
     try {
         objeto = super.clone();
     } catch (CloneNotSupportedException ex) {
@@ -30,6 +32,7 @@ public class Rectangulo implements Cloneable{
     }
     return (Rectangulo) objeto;
    }
+
 
     public int getAncho() {
         return this.ancho;
