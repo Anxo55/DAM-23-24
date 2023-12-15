@@ -11,6 +11,7 @@ public class testRectangulo {
         System.out.println("alto: "+rectangulo1.getAlto());
         System.out.println(rectangulo1.toString());
         System.out.println(" ");
+        
 
         rectangulo1.incrementaAlto();
         rectangulo1.incrementaAlto();
