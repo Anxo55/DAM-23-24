@@ -2,4 +2,10 @@
 |08/01/2024|
  ----------
 -Empezamos con el MySql y nos explicar el USE.
--Con el use podemos escoger la bbdd que queremos utilziar y podemos usar dos en el mismo query.
+-Con el use podemos escoger la bbdd que queremos utilizar y podemos usar dos en el mismo query.
+
+ ----------
+|09/01/2024|
+ ----------
+-Creamos una base de datos de los pdf que subio, y creamos 4 tablas.
+-Todo subido a github.
