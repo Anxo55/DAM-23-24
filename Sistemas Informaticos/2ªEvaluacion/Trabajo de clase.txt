@@ -5,3 +5,12 @@
 -Administracion del sistema.
 -Que es la cmd y cuandp nació.
 -WIMP.
+
+ ----------
+|10/01/2024|
+ ----------
+-Comando tree.
+-Cd para acceder a algun directorio especifico.
+-Lo que ocupa el paint y el bloc de notas en el administrador de tareas.
+-Md y mkdir.
+-Control + f en el cmd y te abre una pestaña.
