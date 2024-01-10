@@ -9,3 +9,8 @@
  ----------
 -Creamos una base de datos de los pdf que subio, y creamos 4 tablas.
 -Todo subido a github.
+
+ ----------
+|10/01/2024|
+ ----------
+-Crear una base de datos que está subida al classroom.

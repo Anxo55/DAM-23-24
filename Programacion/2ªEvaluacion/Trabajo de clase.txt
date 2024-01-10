@@ -7,3 +7,11 @@
 |09/01/2024|
  ----------
 -PostIncremento2 hecho para probar con a++ y ++b.
+-Indicar si un numero esta en ese array o no
+
+ ----------
+|10/01/2024|
+ ----------
+-Hacemos la clase donde buscamos un valor que se repita en 2 Arrays diferentes.
+-Hechas las clase Busqueda y Busqueda2.
+-Creamos la clase Persona y la clase testPersona.
