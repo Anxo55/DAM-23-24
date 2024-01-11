@@ -10,10 +10,12 @@ public class Planeta {
     private int distanciaMediaAlSol;
     private TipoPlaneta tipo;
     private boolean observableASimpleVista;
+    private int periodoOrbital;
+    private int periodoRotacion;
     
     // Constructor
     public Planeta(String nombre, int cantidadSatelites, double masa, double volumen, int diametro,
-                   int distanciaMediaAlSol, TipoPlaneta tipo, boolean observableASimpleVista) {
+                   int distanciaMediaAlSol, TipoPlaneta tipo, boolean observableASimpleVista, int periodoOrbital, int periodoRotacion) {
         this.nombre = nombre;
         this.cantidadSatelites = cantidadSatelites;
         this.masa = masa;
@@ -22,6 +24,8 @@ public class Planeta {
         this.distanciaMediaAlSol = distanciaMediaAlSol;
         this.tipo = tipo;
         this.observableASimpleVista = observableASimpleVista;
+        this.periodoOrbital = periodoOrbital;
+        this.periodoRotacion = periodoRotacion;
     }
 
     
@@ -34,6 +38,8 @@ public class Planeta {
         System.out.println("Distancia Media al Sol: " + distanciaMediaAlSol + " millones de km");
         System.out.println("Tipo de Planeta: " + tipo);
         System.out.println("Observable a Simple Vista: " + observableASimpleVista);
+        System.out.println("El periodo de rotacion es: "+periodoRotacion);
+        System.out.println("El periodo orbital es: "+periodoOrbital);
     }
 
    
