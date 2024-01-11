@@ -14,3 +14,19 @@
 -Lo que ocupa el paint y el bloc de notas en el administrador de tareas.
 -Md y mkdir.
 -Control + f en el cmd y te abre una pestaña.
+
+ ----------
+|11/01/2024|
+ ----------
+-Comando tasklist.
+-PID.
+-cls para borrar todo como un clear en la powersheall.
+-taskkill
+-query /?.
+-taskkill /F /pid y a continuacion pondriamos el codigo de dicho archivo q vimos usando el comando tasklist.
+-tasklist |sort. con este comando te lo muestra ordenado por orden alfabético.
+-tasklist /?.
+-cd /?.
+-md carpeta2.
+-mkdir carpeta 3.
+
