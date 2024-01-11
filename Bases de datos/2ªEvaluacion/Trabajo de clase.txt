@@ -14,3 +14,13 @@
 |10/01/2024|
  ----------
 -Crear una base de datos que está subida al classroom.
+
+ ----------
+|11/01/2024|
+ ----------
+-Vamos a ver el alter table, corregimos la practica de las tablas.
+-Hecha en la practica3 la tabla y hacemos el ejemplo del alter table.
+-Motores de almacenamiento(Mas comun es InnoDB).
+-Generalmente usaremos tablas de InnoDB.
+-Seguir con las practicas de EmpresasABC.
+
