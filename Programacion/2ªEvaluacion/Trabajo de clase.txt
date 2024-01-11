@@ -15,3 +15,10 @@
 -Hacemos la clase donde buscamos un valor que se repita en 2 Arrays diferentes.
 -Hechas las clase Busqueda y Busqueda2.
 -Creamos la clase Persona y la clase testPersona.
+
+ ----------
+|11/01/2024|
+ ----------
+-Correccion de la practica de Planeta.
+-Hacer la misma con nuevos atributos para mañana.
+-Hacer la
