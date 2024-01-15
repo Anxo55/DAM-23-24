@@ -21,4 +21,10 @@
  ----------
 -Correccion de la practica de Planeta.
 -Hacer la misma con nuevos atributos para mañana.
--Hacer la
+-Hacer la clase automovil.
+
+ ----------
+|15/01/2024|
+ ----------
+-Correcion de la clase automovil.
+-Manda poner un atributo para saber si el coche es automatico.

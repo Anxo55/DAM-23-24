@@ -12,9 +12,10 @@ public class Automovil {
     private int velocidadActual;
     private tipoCombustible combustible;
     private tipoAutomovil automovil;
+    private boolean automatico;
 
     Automovil(String marca, int modelo, int motor, int numeroPuertas, int cantidadAsientos, int velocidadMaxima,
-     tipoColor color, int velocidadActual, tipoCombustible combustible, tipoAutomovil automovil){
+     tipoColor color, int velocidadActual, tipoCombustible combustible, tipoAutomovil automovil, boolean automatico){
 
         this.marca=marca;
         this.modelo=modelo;
@@ -26,6 +27,7 @@ public class Automovil {
         this.velocidadActual = velocidadActual;
         this.combustible = combustible;
         this.automovil = automovil;
+        this.automatico = automatico;
     }
 
 
@@ -109,6 +111,16 @@ public class Automovil {
         this.automovil = automovil;
     }
 
+    public boolean isAutomatico() {
+        return automatico;
+    }
+
+
+    public void setAutomatico(boolean automatico) {
+        this.automatico = automatico;
+    }
+
+    
     public void frenar(int cantidad) {
         if (cantidad > 0 && velocidadActual - cantidad >= 0) {
             velocidadActual -= cantidad;
@@ -155,7 +167,6 @@ public class Automovil {
                 + ", color=" + color + ", velocidadActual=" + velocidadActual + ", combustible=" + combustible
                 + ", automovil=" + automovil + "]";
     }
-
     
     
 }
