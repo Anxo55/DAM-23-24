@@ -36,3 +36,12 @@
 -Comando systeminfo.
 -chkdsk.
 -schtasks.
+
+ ----------
+|15/01/2024|
+ ----------
+-erase /?.
+-erase carpeta1 (salta un mensaje de s/n).
+-erase /s carpeta1.
+-Copiar informacion de una carpeta y pasarla para otra.
+
