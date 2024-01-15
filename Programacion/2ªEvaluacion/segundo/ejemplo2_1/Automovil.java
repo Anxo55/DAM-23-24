@@ -28,7 +28,6 @@ public class Automovil {
         this.automovil = automovil;
     }
 
-    
 
     public String getMarca() {
         return marca;

@@ -30,3 +30,9 @@
 -md carpeta2.
 -mkdir carpeta 3.
 
+ ----------
+|12/01/2024|
+ ----------
+-Comando systeminfo.
+-chkdsk.
+-schtasks.
