@@ -2,7 +2,7 @@
 #1) Obtener una lista de todos los productos indicando para cada uno su idfabricante, idproducto, 
 #descripción, precio de compra, IVA y precio con I.V.A. incluido (es el precio anterior aumentado en 
 #un 21%). 
-SELECT idFabricante, idProducto, descripcion, precioCompra, existencias, precioCompra*0.21 AS 'Precion con IVA'
+SELECT idFabricante, idProducto, descripcion, precioCompra, existencias, precioCompra*0.21 AS 'IMPUESTO', precioCompra*1.21 'PRECIO CON IVA'
 FROM Productos;
 
 
@@ -71,12 +71,23 @@ WHERE fechaPedido >= DATEADD(month, -1, GETDATE()) AND fechaPedido < GETDATE();
 #11) Listar los números de los empleados que tienen una oficina asignada. 
 SELECT COUNT(Oficina)
 FROM empleados
-WHERE Oficina IS NOT NULL;
+WHERE Oficina IS 
+NOT NULL;
 
 #12) Listar los nombres de los empleados que no tienen asignada una oficina. 
+SELECT nombre AS 'Nombre Empleados'
+FROM Empleados
+WHERE Oficina IS NULL;
 #13) Listar los datos de las oficinas de las regiones del Galicia y Euzkadi (tienen que aparecer primero las 
 #del Euzkadi y después las de Galicia).
+SELECT *
+FROM Oficinas 
+WHERE Region = 'Galicia' OR region = 'Euzkadi';
+
 #14) .Listar los clientes de nombre Julia. 
+SELECT *
+FROM Clientes
+WHERE nombre = "julia"; 
 #15) Listar los productos cuyo idproducto acabe en x.
 #16) Obtener toda la información de los empleados cuya edad este comprendida entre 40 y 60 años.
 #17) Obtener todos los clientes cuyos representantes tengan los códigos 102, 104 y 109.

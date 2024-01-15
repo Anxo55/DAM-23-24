@@ -24,3 +24,8 @@
 -Generalmente usaremos tablas de InnoDB.
 -Seguir con las practicas de EmpresasABC.
 
+ ----------
+|15/01/2024|
+ ----------
+-Correccion ejercicios de empresasABC.
+-Antonio subió varios de los enunciados, continuar con los que nos faltan por hacer.
