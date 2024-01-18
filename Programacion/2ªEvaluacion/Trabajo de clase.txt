@@ -28,3 +28,10 @@
  ----------
 -Correcion de la clase automovil.
 -Manda poner un atributo para saber si el coche es automatico.
+
+ ----------
+|16/01/2024|
+ ----------
+-Nos sube las clases Circulo, Rectangulo y Cuadrado.
+-Hace el testeo de las clases donde crea 4 figuras.
+-Empezamos con el ejemplo2_5

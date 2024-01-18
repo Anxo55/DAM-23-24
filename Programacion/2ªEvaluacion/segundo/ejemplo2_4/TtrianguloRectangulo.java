@@ -1,21 +1,24 @@
 package segundo.ejemplo2_4;
 
-public class TtrianguloRectangulo {
+public class TtrianguloRectangulo extends Figura{
 
     enum tipoTriangulo{
-        EQUILIBRISTA,ESCALENO, ISOSCELES
+        EQUILATERO,ESCALENO, ISOSCELES
     }
 
-    tipoTriangulo nombre;
+    tipoTriangulo nome;
 
     int base; // Atributo que define la base de un triángulo rectángulo
 	int altura; // Atributo que define la altura de un triángulo rectángulo
 
-	public void TrianguloRectangulo(int base, int altura) {
+	TtrianguloRectangulo(String nome, int base, int altura) {
+		super(nome);
 		this.base = base;
 		this.altura = altura;
-        setTipoTriangulo();
+		setTipoTriangulo();
 	}
+
+	
 
 	double calcularArea() {
 		return (base * altura / 2);
@@ -32,24 +35,23 @@ public class TtrianguloRectangulo {
 	void setTipoTriangulo() {
 		if ((base == altura) && (base == calculaHipotenusa()) && (altura == calculaHipotenusa())){
 			System.out.println("Es un triángulo equilátero");
-            this.nombre=tipoTriangulo.EQUILIBRISTA;
+            this.nome=tipoTriangulo.EQUILATERO;
     }
 		else if ((base != altura) && (base != calculaHipotenusa()) && (altura != calculaHipotenusa())){
 			System.out.println("Es un triángulo escaleno");
-            this.nombre=tipoTriangulo.ESCALENO;
+            this.nome=tipoTriangulo.ESCALENO;
         }else
 			System.out.println("Es un triángulo isósceles");
-            this.nombre=tipoTriangulo.ISOSCELES;
+            this.nome=tipoTriangulo.ISOSCELES;
 	}
 
-    public tipoTriangulo getNombre() {
-        return nombre;
+    public tipoTriangulo getNome() {
+        return nome;
     }
 
-    @Override
-    public String toString() {
-        return "TtrianguloRectangulo [nombre=" + nombre + ", base=" + base + ", altura=" + altura + "]";
-    }
-
+	@Override
+	public String toString() {
+		return super.toString()+"TtrianguloRectangulo [nome=" + nome + ", base=" + base + ", altura=" + altura + "]";
+	}	
 
 }
