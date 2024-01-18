@@ -29,3 +29,11 @@
  ----------
 -Correccion ejercicios de empresasABC.
 -Antonio subió varios de los enunciados, continuar con los que nos faltan por hacer.
+
+ ----------
+|18/01/2024|
+ ----------
+-Tema 10: Las consultas.
+-GROUP BY.
+-Hacer los ejercicios de la practica3 de empresasABC.
+-Continuar en casa con los ejercicios para repasar.

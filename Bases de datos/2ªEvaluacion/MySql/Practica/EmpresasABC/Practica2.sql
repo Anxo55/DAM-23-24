@@ -87,15 +87,52 @@ WHERE Region = 'Galicia' OR region = 'Euzkadi';
 #14) .Listar los clientes de nombre Julia. 
 SELECT *
 FROM Clientes
-WHERE nombre = "julia"; 
+WHERE nombre LIKE "julia%"; 
+
 #15) Listar los productos cuyo idproducto acabe en x.
+SELECT *
+FROM productos
+WHERE idProducto LIKE '%x';
+
 #16) Obtener toda la información de los empleados cuya edad este comprendida entre 40 y 60 años.
+SELECT nombre,FecNacimiento,TRUNCATE(DATEDIFF(curDate(),FecNacimiento)/365,0) edad
+FROM empleados
+WHERE TRUNCATE(DATEDIFF(curDate(),FecNacimiento)/365,0)>=40 AND TRUNCATE(DATEDIFF(curDate(),FecNacimiento)/365,0)<=60;
+
 #17) Obtener todos los clientes cuyos representantes tengan los códigos 102, 104 y 109.
+SELECT *
+FROM clientes
+WHERE codRepresentante IN (102,104,109);
+
 #18) Obtener un listado de todos los productos ordenados alfabéticamente por fabricante y después de 
 #mayor a menor precio.
+SELECT *
+FROM productos
+ORDER BY idFabricante,PrecioCompra DESC;
+
 #19) Listar todos los empleados que lleven trabajando más de 25 años en la empresa.
+SELECT codEmpleado,Nombre,FecContrato,ROUND(DATEDIFF(curdate(),FecContrato)/365) AS antiguedad
+FROM empleados
+WHERE ROUND(DATEDIFF(curdate(),FecContrato)/365)>=25;
+
 #20) Listar todas las oficinas que no tengan marcado ningún objetivo.
+SELECT *
+FROM oficinas
+WHERE objetivo IS NULL OR objetivo=0;
+
 #21) Obtener el nombre de todos los empleados cuyo salario acumulado hasta la fecha actual no han 
 #llegado a cubrir el objetivo que tenían, además se deberá calcular el importe que les falta.
+
+SELECT objetivo,sueldo,
+TIMESTAMPDIFF(MONTH,fecContrato,curDate()) AS meses,
+TIMESTAMPDIFF(MONTH,fecContrato,curDate())*sueldo AS acumulado,
+objetivo-(TIMESTAMPDIFF(MONTH,fecContrato,curDate())*sueldo) AS Diferencia
+FROM empleados
+WHERE (TIMESTAMPDIFF(MONTH,fecContrato,curDate())*sueldo)<objetivo;
+
 #22) Obtener el nombre del empleado, sueldo, comisión, sueldo bruto (sueldo + comisión), el importe 
 #de las retenciones tanto del IRPF como de la S.S., y el sueldo neto (sueldo bruto – las retenciones)
+SELECT nombre,sueldo,comision,(sueldo+comision) 
+AS "Sueldo bruto",retencionesIRPF,retencionesSS,
+ROUND((sueldo+comision)*(1-(retencionesIRPF+retencionesSS)),2) 
+AS "Sueldo neto"
