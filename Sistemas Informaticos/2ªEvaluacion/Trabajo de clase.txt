@@ -45,3 +45,16 @@
 -erase /s carpeta1.
 -Copiar informacion de una carpeta y pasarla para otra.
 
+ ----------
+|18/01/2024|
+ ----------
+-ping google.com.
+-ping localhost & hostname.
+-ping test & hostname.
+-ping test && hostname.
+-ping test | test2.
+-ipconfig > ip.txt.
+-ipconfig & hostname > ip.txt.
+-ping localhost >> ip.txt.
+-Trabajo para entregar mañana dia 19.
+
