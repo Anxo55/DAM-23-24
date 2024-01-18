@@ -35,3 +35,12 @@
 -Nos sube las clases Circulo, Rectangulo y Cuadrado.
 -Hace el testeo de las clases donde crea 4 figuras.
 -Empezamos con el ejemplo2_5
+
+ ----------
+|18/01/2024|
+ ----------
+-Mirar la clase cuenta y hacer su test.
+-Clase pelicula y hacer sus metodos.
+-Clase Avion y hacemos sus tests.
+-Practica para hacer de metodos de conversion para Objetos
+
