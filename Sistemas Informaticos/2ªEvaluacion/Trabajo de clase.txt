@@ -64,3 +64,9 @@
 -Terminar el trabajo de los comandos de clase.
 -Falta subir el archivo txt y ya enviar el trabajo antes de que acabe el dia.
 
+ ----------
+|22/01/2024|
+ ----------
+-Abrir el administrador de equipos y arrancar el paint.
+-Dandole a crear la tarea basica creamos lo que va a ejecutar el programa cuando se reinicie.
+-Coger la ruta del archivo especifico.
