@@ -38,11 +38,11 @@ public class Pedido {
 			segundoPlato + " + " + bebida + " es = $" + total);
 			}
 
-	public void calcularPedido(String primerPlato, double costoPrimerPlato, String segundoPlato,
-			double costoSegundoPlato, String bebida, double costoBebida) {
-		double total = costoPrimerPlato + costoSegundoPlato + costoBebida;
-		System.out.println("El costo de " + primerPlato + " + " + segundoPlato + " + " + bebida + " es = $" + total);
-	}
+	// public void calcularPedido(String primerPlato, double costoPrimerPlato, String segundoPlato,
+	// 		double costoSegundoPlato, String bebida, double costoBebida) {
+	// 	double total = costoPrimerPlato + costoSegundoPlato + costoBebida;
+	// 	System.out.println("El costo de " + primerPlato + " + " + segundoPlato + " + " + bebida + " es = $" + total);
+	// }
 
 	public void calcularPedido(String primerPlato, double
 			costoPrimerPlato, String segundoPlato, double

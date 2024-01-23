@@ -50,3 +50,10 @@
 -Tenemos las clases de los metodos de conversion.
 -Hacemos el ejemplo 2_10 donde tenemos la clase pedido y con su respectivo test.
 
+ ----------
+|22/01/2024|
+ ----------
+-Terminar el ejemplo2_10
+-Empezamos con el ejemplo2_11.
+-Hacemos la clase ArticuloCientifico y hacemos su testeo.
+
