@@ -68,9 +68,6 @@ FROM lineasPedido
 WHERE (precioVenta*Cantidad)>5000;
 #9) Listar cuántos empleados están asignados a cada oficina, indicar el número de oficina y cuántos 
 #hay asignados. 
-SELECT Oficina, COUNT(*), GROUP_CONCAT(codEmpleado), GROUP_CONCAT(Nombre) 
-FROM Empleados
-GROUP BY Oficina;
 
 #10) Para cada empleado, obtener su número, nombre, e importe vendido por ese empleado a cada 
 #cliente indicando el número y nombre del cliente. 
@@ -92,15 +89,7 @@ GROUP BY Oficina;
 #19) Calcular el total de cada pedido, indicando el nombre del cliente, la fecha del pedido
 #20) Calcular el total vendido cada mes
 #21) Seleccionar para cada fabricante el precio medio de sus productos
-SELECT  idFabricante, ROUND(AVG(precioCompra),2)
-FROM productos
-GROUP BY (idFabricante);
-
 #22) Indicar cuál es el producto del que se han vendidos más unidades, 
-SELECT producto, SUM(cantidad)
-FROM LineasPedido
-GROUP BY producto;
-
 #23) Calcular para cada producto el beneficio (Ingresos – gastos), indicando el producto, el total 
 #vendido y el total comprado.
 #24) Listar ordenadamente por el importe vendido por cada empleado, indicando su nombre.

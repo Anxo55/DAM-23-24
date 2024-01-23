@@ -37,3 +37,9 @@
 -GROUP BY.
 -Hacer los ejercicios de la practica3 de empresasABC.
 -Continuar en casa con los ejercicios para repasar.
+
+ ----------
+|23/01/2024|
+ ----------
+-Hacemos las correcciones de los ejercicios 9 21 22 del boletin 3
+-Nuevo boletin subido de ejercicios para Northwind.
