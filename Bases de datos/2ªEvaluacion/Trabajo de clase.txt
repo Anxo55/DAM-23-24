@@ -43,3 +43,11 @@
  ----------
 -Hacemos las correcciones de los ejercicios 9 21 22 del boletin 3
 -Nuevo boletin subido de ejercicios para Northwind.
+
+ ----------
+|24/01/2024|
+ ----------
+-Hecha la practica5 de los ejercicios de northwnid.
+-Continuar con las practicas de los ejercicios 200
+
+

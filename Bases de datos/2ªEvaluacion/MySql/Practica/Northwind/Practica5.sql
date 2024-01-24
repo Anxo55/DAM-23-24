@@ -120,20 +120,44 @@ LIMIT 6;
 
 #Ejercicio 116
 #Seleccionar los 9 productos, con menos stock en almacén, que pertenezcan a la categoría 3, 5 y 8.
+SELECT *
+FROM Products
+WHERE CategoryID IN (3, 5, 8)
+ORDER BY UnitsInStock
+LIMIT 9;
 
-
-
-#Ejercicio 117
-#Seleccionar las órdenes de compra, realizadas por el empleado con código entre el 2 y 5, además 
+#Ejercic#Seleccionar las órdenes de compra, realizadas por el empleado con código entre el 2 y 5, además 
 #de los clientes con código que comienzan con las letras de la A hasta la G, del 31 de julio de 
-#cualquier año.
+#cualquier año.io 117 
+SELECT *
+FROM Orders
+WHERE EmployeeID IN(2,5) AND CustomerID LIKE '[A-G%]';
+
+
 #Ejercicio 118
 #Seleccionar las órdenes de compra, realizadas por el empleado con código 3, de cualquier año pero 
 #solo de los úlimos 5 meses (agosto-Diciembre).
+SELECT *
+FROM Orders
+WHERE EmployeeID LIKE "3" AND MONTH(Orderdate) BETWEEN 8 AND 12;
+
+
 #Ejercicio 119
 #Seleccionar los detalles de las órdenes de compra, que tengan un monto de cantidad pedida entre 10 
 #y 250.
+SELECT *
+FROM OrderDetails
+WHERE Quantity BETWEEN 10 AND 250;
+
+
 #Ejercicio 120
 #Selecciona las líneas de pedido cuyo importe total de la línea estén entre 10 y 100.
+SELECT Quantity * UnitPrice AS 'Importe'
+FROM OrderDetails
+WHERE Quantity* UnitPrice BETWEEN 10 AND 100;
+
+
 #Ejercicio 121
 #Muestra un listado con los distintos países de los clientes.
+SELECT *
+FROM Customers;
