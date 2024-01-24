@@ -56,4 +56,11 @@
 -Terminar el ejemplo2_10
 -Empezamos con el ejemplo2_11.
 -Hacemos la clase ArticuloCientifico y hacemos su testeo.
+-Por ultimo hicimos la clase caja con su test caja.
+
+ ----------
+|23/01/2024|
+ ----------
+-Hacemos el ejemplo 3_1 donde creamos la clase atleta.
+-Despues hicimos la clase testAtleta
 
