@@ -36,7 +36,6 @@
 -Comando systeminfo.
 -chkdsk.
 -schtasks.
-
  ----------
 |15/01/2024|
  ----------
@@ -58,7 +57,7 @@
 -ping localhost >> ip.txt.
 -Trabajo para entregar mañana dia 19.
 
- ----------
+ --------
 |19/01/2024|
  ----------
 -Terminar el trabajo de los comandos de clase.
@@ -76,3 +75,8 @@
  ----------
 -Visor de Eventos
 -Trabajo de Visor de Eventos. 
+
+ ----------
+|25/01/2024|
+ ----------
+-Instalamos el virtual box.
