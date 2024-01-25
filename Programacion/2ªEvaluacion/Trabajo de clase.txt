@@ -64,3 +64,7 @@
 -Hacemos el ejemplo 3_1 donde creamos la clase atleta.
 -Despues hicimos la clase testAtleta
 
+ ----------
+|24/01/2024|
+ ----------
+-Creamos el ejemplo3_2 y hacemos la clase cadena.
