@@ -50,4 +50,10 @@
 -Hecha la practica5 de los ejercicios de northwnid.
 -Continuar con las practicas de los ejercicios 200
 
+ ----------
+|25/01/2024|
+ ----------
+-Continuar con las practicas que mandó de mysql.
+-Revisar los de la practica5b y volver a hacerlos como el de la practica5
+-Empezar con la practica5c.
 
