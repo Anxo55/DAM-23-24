@@ -24,17 +24,17 @@ public class CadenaBis {
         char[] caracteres = param.toCharArray();
         String  volta = "";
         
-        for(int i=caracteres.length;i>=0;i--) 
+        for(int i=caracteres.length-1;i>=0;i--) 
             volta += caracteres[i];
 
         return volta;        
     }
 
    public static void main(String[] args) {
-    String cadena = "Programacion Orientada a Objetos";
-    System.out.println("mayusculas: "+cuentaMayusculas(cadena));
-    System.out.println("letras: "+contarLetra(cadena, 'O'));
-    System.out.println(voltearCadena(cadena));
+        String cadena = "Programacion Orientada a Objetos";
+        System.out.println("mayusculas: "+cuentaMayusculas(cadena));
+        System.out.println("letras: "+contarLetra(cadena, 'O'));
+        System.out.println(voltearCadena(cadena));
    }
 
 }
