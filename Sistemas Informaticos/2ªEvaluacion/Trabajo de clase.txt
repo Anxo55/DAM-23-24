@@ -79,4 +79,10 @@
  ----------
 |25/01/2024|
  ----------
--Instalamos el virtual box.
+-Instalamos el virtual box.`
+
+ ----------
+|26/01/2024|
+ ----------
+-Suma de verificacion.
+-No copiar un comando de chatgpt y ponerlo en ninguna terminal.
