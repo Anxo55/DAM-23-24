@@ -126,9 +126,9 @@ WHERE CategoryID IN (3, 5, 8)
 ORDER BY UnitsInStock
 LIMIT 9;
 
-#Ejercic#Seleccionar las órdenes de compra, realizadas por el empleado con código entre el 2 y 5, además 
+#Seleccionar las órdenes de compra, realizadas por el empleado con código entre el 2 y 5, además 
 #de los clientes con código que comienzan con las letras de la A hasta la G, del 31 de julio de 
-#cualquier año.io 117 
+#cualquier año.
 SELECT *
 FROM Orders
 WHERE EmployeeID IN(2,5) AND CustomerID LIKE '[A-G%]';
