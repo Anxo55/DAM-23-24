@@ -86,3 +86,9 @@
  ----------
 -Suma de verificacion.
 -No copiar un comando de chatgpt y ponerlo en ninguna terminal.
+
+ ----------
+|29/01/2024|
+ ----------
+-Buscar reporte de lo que ocurre cuando apagas el Administrador de usuarios.
+-Documento de la unidad subida al classroom para ir repasando ya.
