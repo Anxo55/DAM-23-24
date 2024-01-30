@@ -8,3 +8,5 @@
 
 -Frontend: Html, css, javaScripy, vue, react, angular
 -Backend:php, ruby, python, c++, java
+
+-Practicar mas sobre los formularios de php y ponerme al dia con todo y seguir con html para no dejarlo sin practicar.

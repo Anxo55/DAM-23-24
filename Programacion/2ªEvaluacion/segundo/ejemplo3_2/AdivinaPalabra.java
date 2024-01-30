@@ -19,14 +19,15 @@ public class AdivinaPalabra {
 
 public static void main (String [] args) {
  Scanner sc = new Scanner(System.in);
- System.out.println ("Empezamos el juego.");
+ System.out.println ("Empezamos el juego. Tienes 10 intentos");
  System.out.println ("Adivina la palabra: ");
 int veces = 0;
+System.out.println(PALABRA_SECRETA);
 
  boolean correcto = false;
- while (!correcto || veces<=10) {
-        veces++;
-        System.out.println("Te quedan "+(10-veces)+" intentos");
+ while (!correcto && veces<=10) {
+        
+        
          System.out.print ("¿Qué palabra crees que es?");
          String palabra = sc.next();
          sc.nextLine();
@@ -40,7 +41,13 @@ int veces = 0;
          // Si vale 0, es que se ha acertado.
          correcto = true;
          }
+         veces++;
+         System.out.println("Te quedan "+(10-veces)+" intentos");
  }
- System.out.println ("Enhorabuena. Has acertado! en "+veces+" intentos.");
+ if(correcto)
+    System.out.println ("Enhorabuena. Has acertado! en "+veces+" intentos.");
+ else
+    System.out.println("Agotados intentos. HAS PERDIDO");
+
  }
 }

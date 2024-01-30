@@ -90,3 +90,10 @@
 -Hacemos el reto3 y reto2. 
 -Tambien hicimos la clase AdivinaPalabra.
 
+ ----------
+|30/01/2024|
+ ----------
+-Escoger si en el juego de Adivina palabra teniamos que utilizar el AND o el OR.
+-Clase InvertirNumero, donde probamos los metodos de Stringbuilder y el String.valueOf().
+-Clase TroceandoCadenas.
+-Reto7 para hacer la clase, con el metodo split.
