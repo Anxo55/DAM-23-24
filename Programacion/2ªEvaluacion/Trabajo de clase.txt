@@ -83,3 +83,10 @@
 -Primera clase q la llamamos LecturaFrase.
 -Hacemos la clase palindromo donde pasamos una cadena y nos dice si al darle la vuelta dice lo mismo.
 -Lo vimos con el cosntructor de string builder y usando el equals para comparar la frase y su reves.
+
+ ----------
+|29/01/2024|
+ ----------
+-Hacemos el reto3 y reto2. 
+-Tambien hicimos la clase AdivinaPalabra.
+
