@@ -62,3 +62,8 @@
  ----------
 -Correccion de las ultimas practicas q hicimos.
 -Seguimos las practicas del apartado 300.
+
+ ----------
+|30/01/2024|
+ ----------
+-Correccion de los ejercicios de northwind.
