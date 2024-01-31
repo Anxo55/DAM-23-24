@@ -92,3 +92,10 @@
  ----------
 -Buscar reporte de lo que ocurre cuando apagas el Administrador de usuarios.
 -Documento de la unidad subida al classroom para ir repasando ya.
+
+ ----------
+|31/01/2024|
+ ----------
+-Instalar la ISO de windows 10 Pro.
+-Monitor de rendimiento y sus propiedades.
+-Trabajo de Monitor de rendimiento y recursos.
