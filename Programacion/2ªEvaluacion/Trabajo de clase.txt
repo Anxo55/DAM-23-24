@@ -97,3 +97,12 @@
 -Clase InvertirNumero, donde probamos los metodos de Stringbuilder y el String.valueOf().
 -Clase TroceandoCadenas.
 -Reto7 para hacer la clase, con el metodo split.
+
+ ----------
+|31/01/2024|
+ ----------
+-Creamos la clase envoltorio.
+-En la clase OrdenarArray creamos un char donde le pasamos una cadena con un toCharArray.
+-Con el metodo sort ordenamos alfabeticamente la cadena.ç
+-Creamos el paquete ejemplo3_5 donde creamos la clase Medicamento.
+
