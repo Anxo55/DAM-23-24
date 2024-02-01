@@ -99,3 +99,9 @@
 -Instalar la ISO de windows 10 Pro.
 -Monitor de rendimiento y sus propiedades.
 -Trabajo de Monitor de rendimiento y recursos.
+
+ ----------
+|01/02/2024|
+ ----------
+-Trabajo del Monitor de rendimiento y recursos entregado.
+-Hecho desde otro ordenador por que en el mio no funcionaba, no aparecia sistema ni adaptador de red.
