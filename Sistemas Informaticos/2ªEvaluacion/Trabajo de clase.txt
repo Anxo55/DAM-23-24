@@ -105,3 +105,12 @@
  ----------
 -Trabajo del Monitor de rendimiento y recursos entregado.
 -Hecho desde otro ordenador por que en el mio no funcionaba, no aparecia sistema ni adaptador de red.
+
+ ----------
+|02/02/2024|
+ ----------
+-Viendo el documento de repaso de clase.
+-UAC.
+-Archivos y Directorios ocultos del sistema.
+-Como personalizar y aladir variables a windows 10.
+-Trabajo de Dave cutler.
