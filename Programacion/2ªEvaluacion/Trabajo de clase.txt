@@ -106,3 +106,11 @@
 -Con el metodo sort ordenamos alfabeticamente la cadena.ç
 -Creamos el paquete ejemplo3_5 donde creamos la clase Medicamento.
 
+ ----------
+|01/02/2024|
+ ----------
+-Hicimos la clase medicamento y dentro tiene la clase posologia, en el testeo para crear un objeto de posologia
+ tienes que declararlo con la clase principal que es la de Medicamento.
+-Hacemos la clase paquete.
+-Creamos el testPaquete donde creamos el paquete y luego con la persona haciendo de paquete también.
+
