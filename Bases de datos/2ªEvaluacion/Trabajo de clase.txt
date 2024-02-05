@@ -81,3 +81,11 @@
 -Vimos el test ANY.
 -Practicas de subconsultas subidas al classroom 
 -Terminar las practicas de mysql de northwind por la tarde y repasar la teoria.
+
+ ----------
+|05/02/2024|
+ ----------
+-Va a quitar los primeros ejercicios de subconsultas.
+-Subio un apartado de TiendaInformtica de sql, una imagen y un pdf.
+-Varios ejercicios de subconsultas hechos de TiendaInformatica en el script Tienda1.
+-Subido todo al classroom, terminarlo y repasar todo.
