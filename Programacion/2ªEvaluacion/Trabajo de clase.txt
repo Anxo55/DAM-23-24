@@ -122,3 +122,10 @@
 -Creamos la clase Computadora y Tienda.
 -Tarea de los ejercicios para hacer su testeo.
 
+ ----------
+|05/02/2024|
+ ----------
+-Hacemos el testTienda, para crear los objetos de las clases tienda y computador.
+-Revisar esta practica, viendo las dos clases y su testeo.
+-Creamos el paquete Coleccion.
+-Y creamos dentro la clase Disco.

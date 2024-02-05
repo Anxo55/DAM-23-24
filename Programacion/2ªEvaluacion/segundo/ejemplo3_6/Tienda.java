@@ -47,17 +47,20 @@ public class Tienda {
             return false;
         }
 
-        for(int i=pos; i < numComp; i++) {
+        for(int i=pos; i < numComp-1; i++) {
             computadores[i] = computadores[i+1];
+            // no resetea el ultimo nunca
         }
+        // lo que hay que hacer
+        computadores[numComp-1]=null;
         numComp--;//Decrementa la cantidad de computadores
         return true;
     }
 
     public int buscar(String marcaComputador) {
         for(int i = 0; i < numComp; i++) {
-            // USE GETMARCA POR FAVOR
-            if (computadores[i].marca.equals(marcaComputador)) 
+            // USE GETMARCA POR FAVOR, en vez dek atributo
+            if (computadores[i].getMarca().equals(marcaComputador)) 
             // Si se encuentra el computador buscado
             return i;//Retorna la posicion del computador buscado en el array
         }
@@ -67,7 +70,7 @@ public class Tienda {
     @Override
     public String toString() {
         return "Tienda [nombre=" + nombre + ", propietario=" + propietario + ", id=" + id + ", computadores="
-                + Arrays.toString(computadores) + "]";
+                + "\n"+Arrays.toString(computadores) + "]";
     }
 
     

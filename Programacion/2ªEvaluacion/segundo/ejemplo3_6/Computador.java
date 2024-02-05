@@ -18,11 +18,13 @@ public class Computador {
 		this.precio = precio;
 	}
 
+	public String getMarca() {
+		return marca;
+	}
 
 	@Override
 	public String toString() {
-		return "Computador [marca=" + marca + ", memoria=" + memoria + ", procesador=" + procesador + ", sistema="
-				+ sistema + ", precio=" + precio + "]";
+		return "Computador [marca=" + marca + ", memoria=" + memoria + "]";
 	}
 	
 	
