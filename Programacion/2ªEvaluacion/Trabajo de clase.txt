@@ -114,3 +114,11 @@
 -Hacemos la clase paquete.
 -Creamos el testPaquete donde creamos el paquete y luego con la persona haciendo de paquete también.
 
+ ----------
+|02/02/2024|
+ ----------
+-Subió el paquete y el testPaquete.
+-Vamos a crear un Array de objetos.
+-Creamos la clase Computadora y Tienda.
+-Tarea de los ejercicios para hacer su testeo.
+
