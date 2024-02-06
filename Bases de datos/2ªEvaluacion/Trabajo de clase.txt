@@ -89,3 +89,9 @@
 -Subio un apartado de TiendaInformtica de sql, una imagen y un pdf.
 -Varios ejercicios de subconsultas hechos de TiendaInformatica en el script Tienda1.
 -Subido todo al classroom, terminarlo y repasar todo.
+
+ ----------
+|06/02/2024|
+ ----------
+-Correccion de los ejercicios de subconsultas.
+-Hacer las practicas que faltan y repasar subconsultas.
