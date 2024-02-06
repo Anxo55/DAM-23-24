@@ -114,3 +114,9 @@
 -Archivos y Directorios ocultos del sistema.
 -Como personalizar y aladir variables a windows 10.
 -Trabajo de Dave cutler.
+
+ ----------
+|05/02/2024|
+ ----------
+-Tema 5 sobre maquinas virtuales subido al classroom.
+-Ver como descargar la iso de windows 10 para utilziar en el virtual box.
