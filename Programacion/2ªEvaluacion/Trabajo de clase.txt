@@ -129,3 +129,9 @@
 -Revisar esta practica, viendo las dos clases y su testeo.
 -Creamos el paquete Coleccion.
 -Y creamos dentro la clase Disco.
+
+ ----------
+|06/02/2024|
+ ----------
+-Clase disco, intentar corregir el metodo de añadir.
+

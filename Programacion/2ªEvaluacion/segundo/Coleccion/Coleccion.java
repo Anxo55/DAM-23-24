@@ -7,9 +7,9 @@ public class Coleccion {
     public static void main(String[] args) {
 
         final int N = 10;
-
+		// Crea el array de discos
         Disco[] discos = new Disco[N];
-
+		// recorre cada uno de los arrays
         for(int i=0; i<N;i++) {
             discos[i] = new Disco();
         }
@@ -51,15 +51,90 @@ public class Coleccion {
 
 				break;
 
-			case 2:
+				case 2:
 				System.out.println("\nNUEVO DISCO");
 				System.out.println("===========");
-
+				
+				//Booleano necesario para saber si está lleno
+				boolean lleno = true;
+				int primeraLibre = -1;
+				//Busca la primera posicción libre del array
+				do {
+					if(primeraLibre<N-1) {
+					primeraLibre++;} else {
+					lleno = false;
+					}
+				}while(!((discos[primeraLibre].getCodigo()).equals("LIBRE")) && lleno==true);
+				
+				//Comprueba que haya sitio
+				if(lleno==true) {
+				System.out.println("Por favor, introduzca los datos del disco: ");
+				System.out.print("Código: ");
+				codigoIntroducido = s.nextLine();
+				System.out.print("Autor: ");
+				autorIntroducido = s.nextLine();
+				System.out.print("Título: ");
+				tituloIntroducido = s.nextLine();
+				System.out.print("Género: ");
+				generoIntroducido = s.nextLine();
+				System.out.print("Duración: ");
+				duracionIntroducida = Integer.parseInt(s.nextLine());
+				discos[primeraLibre] = new Disco(codigoIntroducido, autorIntroducido, tituloIntroducido, generoIntroducido, duracionIntroducida);
+				
+				}else {
+					System.out.println("Coleccion llena, borre antes de añadir");
+				}
 				break;
 
 			case 3:
 				System.out.println("\nMODIFICAR");
 				System.out.println("===========");
+
+				System.out.println("Introduzca el codigo del disco cuyos datos desea cambiar: ");
+				codigoIntroducido = s.nextLine();
+
+				int i= -1;
+				do{
+					i++;
+				}while (!((discos[i].getCodigo()).equals(codigoIntroducido)));
+
+				// hacer
+				System.out.println("Introduzca los nuevos datos del disco o INTRO para dejarlos igual.");
+
+				System.out.println("Código: " + discos[i].getCodigo());
+				System.out.print("Nuevo código: ");
+				codigoIntroducido = s.nextLine();
+				if (!codigoIntroducido.equals("")) {
+					discos[i].setCodigo(codigoIntroducido);
+				}
+
+				System.out.println("Autor: " + discos[i].getAutor());
+				System.out.print("Nuevo autor: ");
+				autorIntroducido = s.nextLine();
+				if (!autorIntroducido.equals("")) {
+					discos[i].setAutor(autorIntroducido);
+				}
+
+				System.out.println("Título: " + discos[i].getTitulo());
+				System.out.print("Nuevo título: ");
+				tituloIntroducido = s.nextLine();
+				if (!tituloIntroducido.equals("")) {
+					discos[i].setTitulo(tituloIntroducido);
+				}
+
+				System.out.println("Género: " + discos[i].getGenero());
+				System.out.print("Nuevo género: ");
+				generoIntroducido = s.nextLine();
+				if (!generoIntroducido.equals("")) {
+					discos[i].setGenero(generoIntroducido);
+				}
+
+				System.out.println("Duración: " + discos[i].getDuracion());
+				System.out.print("Duración: ");
+				final String duracionIntroducidaString = s.nextLine();
+				if (!duracionIntroducidaString.equals("")) {
+					discos[i].setDuracion(Integer.parseInt(duracionIntroducidaString));
+				}
 
 				break;
 
@@ -67,6 +142,25 @@ public class Coleccion {
 				System.out.println("\nBORRAR");
 				System.out.println("======");
 
+				System.out.println("Introduza el codigo del disco que desea borrar: ");
+				codigoIntroducido = s.nextLine();
+
+				// para todo el array
+				for(int j=0; j<N; j++) {
+					// si coincide hago
+					if(discos[j].getCodigo().equals(codigoIntroducido)){
+					discos[j]=new Disco();
+					System.out.println("Album borrado");
+					}
+					// else no hago
+					}// fin para
+
+				// i=-1;
+				// do{
+				// 	i++;
+				// } while (!((discos[i].getCodigo()).equals(codigoIntroducido)));
+				// discos[i].setCodigo("LIBRE");
+				// System.out.println("Album borrado");
 
 				break;
 
