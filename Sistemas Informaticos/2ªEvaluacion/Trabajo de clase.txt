@@ -120,3 +120,9 @@
  ----------
 -Tema 5 sobre maquinas virtuales subido al classroom.
 -Ver como descargar la iso de windows 10 para utilziar en el virtual box.
+
+ ----------
+|07/02/2024|
+ ----------
+-Instalo la iso de windows en otro ordenador para usarlo en virtual box.
+-Clonarlo cuando este isntalado desde el inicio del virtual box.
