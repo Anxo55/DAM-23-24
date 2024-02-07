@@ -89,14 +89,21 @@ WHERE id = EXISTS (SELECT id_fabricante FROM producto);
 
 #Subconsultas correlacionadas 
 #16. Lista el nombre de cada fabricante con el nombre y el precio de su producto más caro.
-SELECT *
-FROM fabricante
-WHERE nombre =(SELECT MAX(precio) FROM producto)
+SELECT nombre,(SELECT MAX(precio) FROM producto WHERE id_fabricante=f.id) "Precio máximo",
+(SELECT MIN(precio) FROM producto WHERE id_fabricante=f.id) "Precio mínimo"
+FROM fabricante f;
 
 #17. Devuelve un listado de todos los productos que tienen un precio mayor o igual a la media de 
 #todos los productos de su mismo fabricante.
+SELECT *
+FROM Producto
+WHERE precio>=(SELECT AVG(precio) FROM Producto);
+
 
 #18. Lista el nombre del producto más caro del fabricante Lenovo.
+SELECT nombre
+FROM producto
+WHERE precio=(SELECT MAX(precio) FROM producto WHERE fabricante LIKE 'Lenovo');
  
 #Subconsultas (En la cláusula HAVING) 
 #19. Devuelve un listado con todos los nombres de los fabricantes que tienen el mismo número de 

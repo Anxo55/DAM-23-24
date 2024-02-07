@@ -95,3 +95,10 @@
  ----------
 -Correccion de los ejercicios de subconsultas.
 -Hacer las practicas que faltan y repasar subconsultas.
+
+ ----------
+|07/02/2024|
+ ----------
+-Seguir con las subconsultas.
+-Revisar los ejercicios 15 y 17 de subconsultas de tiendaInformatica.
+
