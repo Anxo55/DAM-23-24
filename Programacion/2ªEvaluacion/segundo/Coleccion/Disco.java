@@ -9,7 +9,7 @@ public class Disco {
     private int duracion; // duración total en minutos
 
     public Disco() { 
-        
+      
     }
 
     public Disco(String codigo, String autor, String titulo, String genero, int duracion) {

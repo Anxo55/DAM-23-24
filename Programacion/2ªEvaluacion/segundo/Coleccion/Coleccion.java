@@ -6,8 +6,9 @@ public class Coleccion {
 
     public static void main(String[] args) {
 
+		//numero total de discos que se pueden crear
         final int N = 10;
-		// Crea el array de discos
+		// Crea el array de discos con el tamaño que le pasamos 
         Disco[] discos = new Disco[N];
 		// recorre cada uno de los arrays
         for(int i=0; i<N;i++) {
@@ -59,6 +60,7 @@ public class Coleccion {
 				boolean lleno = true;
 				int primeraLibre = -1;
 				//Busca la primera posicción libre del array
+
 				do {
 					if(primeraLibre<N-1) {
 					primeraLibre++;} else {
@@ -93,7 +95,8 @@ public class Coleccion {
 				System.out.println("Introduzca el codigo del disco cuyos datos desea cambiar: ");
 				codigoIntroducido = s.nextLine();
 
-				int i= -1;
+				int i = -1;
+				
 				do{
 					i++;
 				}while (!((discos[i].getCodigo()).equals(codigoIntroducido)));
@@ -155,18 +158,12 @@ public class Coleccion {
 					// else no hago
 					}// fin para
 
-				// i=-1;
-				// do{
-				// 	i++;
-				// } while (!((discos[i].getCodigo()).equals(codigoIntroducido)));
-				// discos[i].setCodigo("LIBRE");
-				// System.out.println("Album borrado");
-
 				break;
 
 			default:
 
 			} // switch
+
 		} while (opcion != 5);
         
     }
