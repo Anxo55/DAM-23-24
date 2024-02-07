@@ -135,3 +135,15 @@
  ----------
 -Clase disco, intentar corregir el metodo de añadir.
 
+ ----------
+|07/02/2024|
+ ----------
+-Repaso de Arrays.
+-Paquete Rayas donde haremos el repaso.
+-System.console().readLine()
+-Lo anterior no se utiliza.
+-Creando varias clases de ejemplos de repaso de arrays.
+-Throw InterruptedException, para genearr un throw sleep para esperar un X tiempo.
+-Clase de BuscaTesoro.
+-Paquete creado llamado EjerciciosRayas, con la primera clase de practica.
+
