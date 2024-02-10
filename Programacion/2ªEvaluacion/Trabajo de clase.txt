@@ -147,3 +147,11 @@
 -Clase de BuscaTesoro.
 -Paquete creado llamado EjerciciosRayas, con la primera clase de practica.
 
+ ----------
+|08/02/2024|
+ ----------
+-Hacemos el ejercicio2 donde creamos un array de caracteres.
+-Ejercicio3 donde pasamos 10 valores a un array y le damos la vuelta usando otr bucle for.
+-Ejercicio4 donde pasamos un Array con valores aleatorios y donde hacemos el cuadrado y el cubo usando el Math.pow().
+-Ejercicio 5 donde pedimos 10 valores por teclado y el valor mas alto se mostrará maximo y con el mas pequeño se mostrará
+ minimo.
