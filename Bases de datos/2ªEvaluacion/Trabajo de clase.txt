@@ -102,3 +102,8 @@
 -Seguir con las subconsultas.
 -Revisar los ejercicios 15 y 17 de subconsultas de tiendaInformatica.
 
+ ----------
+|08/02/2024|
+ ----------
+-Seguir con las practicas de subconsultas de TiendaInformatica.
+
