@@ -126,3 +126,23 @@
  ----------
 -Instalo la iso de windows en otro ordenador para usarlo en virtual box.
 -Clonarlo cuando este isntalado desde el inicio del virtual box.
+
+ ----------
+|15/02/2024|
+ ----------
+-Apaga la maquina virutal de windows de golpe apagando el ordenador.
+-Particion en disco.
+
+-1. En la virtual box crear particion de 2GB. Asignar letra.
+ Formato: ???? Nombre: Test
+
+ 1.2 Confirmar que aparece en el explorador de archivos.
+
+ 2. Comprobar que la paticion nueva no tiene "archivo de paginacion" en memoria virtual
+ Cambiar a administrada por el sistema.
+
+ TRAMPA!!!!
+
+ 2.1 Confirmar que el archivo de paginacion existe en esa unidad/particion.
+
+-Instalar lig.
