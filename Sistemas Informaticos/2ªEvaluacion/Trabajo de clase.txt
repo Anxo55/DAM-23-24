@@ -145,4 +145,23 @@
 
  2.1 Confirmar que el archivo de paginacion existe en esa unidad/particion.
 
--Instalar lig.
+-Instalar guest Adittions.
+
+ 3. Crea un archivo de texto para confirmar que se puede escribir en esa particion. Ocultalo.
+ -Confirma que se puede ver (si realizaste el punto 2.1 deberías verlo)
+
+ 4. Elimina la particion creada y vuelve a "unirla" la principal (ie., dejalo como estaba antes de la tarea)
+
+ TRAMPA!!!!
+
+ 5. Crear 2 Snapshot/Instantánea
+ Confirmar que se pueden cargar
+ nota: Crea un I1.txt, I2.txt e I3.txt como se realizo en la explicación para conocer el punto temporal en que te encuentras.
+
+ ----------
+|16/02/2024|
+ ----------
+-Cree la Iso de windows 10 pro en el virtual box.
+-Tengo que instalar el guest Addition en la maquina virtual.
+-Revisar lo que está subido al classroom.
+
