@@ -163,3 +163,8 @@
 -Ejercicio14 en el paquete de ejercicios de Arrays.
 -Dejamos el Ejercicio15 sin hacer.
 
+ ----------
+|16/02/2024|
+ ----------
+-Dos ejercicios hechos en la hora de Antonio, el Ejercicio1A y el Ejercicio1B.
+
