@@ -151,7 +151,7 @@
 |08/02/2024|
  ----------
 -Hacemos el ejercicio2 donde creamos un array de caracteres.
--Ejercicio3 donde pasamos 10 valores a un array y le damos la vuelta usando otr bucle for.
+-Ejercicio3 donde pasamos 10 valores a un array y le damos la vuelta usando oto bucle for.
 -Ejercicio4 donde pasamos un Array con valores aleatorios y donde hacemos el cuadrado y el cubo usando el Math.pow().
 -Ejercicio 5 donde pedimos 10 valores por teclado y el valor mas alto se mostrará maximo y con el mas pequeño se mostrará
  minimo.
@@ -167,4 +167,18 @@
 |16/02/2024|
  ----------
 -Dos ejercicios hechos en la hora de Antonio, el Ejercicio1A y el Ejercicio1B.
+
+ ----------
+|19/02/2024|
+ ----------
+-Estamos con el pdf del Capitulo 7 viendo arrays y cadenas.
+-Los Ficheros JAR.
+-Punto 7.5 Algoritmos de ordenacion.
+-Creamos el paquete de Ordenamientos.
+-Creamos la clase EjBurbuja que es el metodo BubbleSort.
+-Con el metodo de la burbuja se ordenan los valores que muestras o le pides a la consola.
+-Tambien lo hicimos con la clase cocktailsSort.
+-Clase ordenamiento EjInsertion.
+-Por ultimo hacemos la calse EjMerge.
+-Vimos todos los metodos para ordenar.
 
