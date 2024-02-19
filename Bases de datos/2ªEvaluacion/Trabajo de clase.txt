@@ -107,3 +107,18 @@
  ----------
 -Seguir con las practicas de subconsultas de TiendaInformatica.
 
+ ----------
+|19/02/2024|
+ ----------
+-Consultas sobre varias tablas.
+-Luego sube todo al classroom.
+-Usamos UNION para unir varias consultas.
+-Usas el ALL para sacar los duplicados (UNION ALL).
+-A y B son tablas de ahora en adelante.
+-Utilizando los joins.
+-Cuando ponemos en un caso producto p o fabricante f, cuando a un atributo se lo ponemos delante es para referirse al de
+ esa tabla.
+-Utilizamos el alias (p o c)(ejemplos) cuando se repite un atributo en varias tablas.
+-Practica de Joins con EmpresasABC, todo subido en la carpeta de Joins.
+-Boletin 3 de empresasABC para hacer de practica para los JOINS.
+
