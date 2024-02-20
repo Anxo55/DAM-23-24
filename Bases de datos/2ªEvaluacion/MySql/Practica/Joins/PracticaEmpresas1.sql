@@ -1,14 +1,16 @@
 #1) Listar las oficinas de Galicia indicando para cada una de ellas su número, ciudad, códigos y 
 #nombres de sus empleados. Hacer una versión en la que aparecen sólo las que tienen empleados, 
 #y hacer otra en las que aparezcan las oficinas de Galicia que no tienen empleados.
-SELECT codOficina, ciudad, codOficina, codEmpleado, nombre
-FROM oficinas o JOIN empleados e ON o.codOficina = e.oficina;
+SELECT codOficina, ciudad, codEmpleado, nombre
+FROM oficinas o JOIN empleados e ON o.codOficina = e.oficina
+WHERE region = 'Galicia';
 
 
 #2) Listar los pedidos mostrando su número, fecha del pedido, nombre del cliente, y el límite de 
 #crédito del cliente correspondiente (todos los pedidos tienen cliente y representante).
 SELECT codPedido, FechaPedido, nombre, limiteCredito
-FROM pedidos p JOIN clientes c USING(codRepresentante);
+FROM pedidos p JOIN clientes c USING(codRepresentante)
+ORDER BY 1;
 
 
 #3) Listar los datos de cada uno de los empleados, la ciudad y región en donde trabaja. 
