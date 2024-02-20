@@ -122,3 +122,10 @@
 -Practica de Joins con EmpresasABC, todo subido en la carpeta de Joins.
 -Boletin 3 de empresasABC para hacer de practica para los JOINS.
 
+ ----------
+|20/02/2024|
+ ----------
+-Right Join.
+-Hacer el boletin 2 de empresasABC para hacer JOIN.
+-Terminar la practica en casa y repasar los que no salieron.
+

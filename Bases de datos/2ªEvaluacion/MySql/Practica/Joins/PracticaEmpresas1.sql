@@ -1,24 +1,37 @@
 #1) Listar las oficinas de Galicia indicando para cada una de ellas su número, ciudad, códigos y 
 #nombres de sus empleados. Hacer una versión en la que aparecen sólo las que tienen empleados, 
 #y hacer otra en las que aparezcan las oficinas de Galicia que no tienen empleados.
+SELECT codOficina, ciudad, codOficina, codEmpleado, nombre
+FROM oficinas o JOIN empleados e ON o.codOficina = e.oficina;
 
 
 #2) Listar los pedidos mostrando su número, fecha del pedido, nombre del cliente, y el límite de 
 #crédito del cliente correspondiente (todos los pedidos tienen cliente y representante).
+SELECT codPedido, FechaPedido, nombre, limiteCredito
+FROM pedidos p JOIN clientes c USING(codRepresentante);
 
 
 #3) Listar los datos de cada uno de los empleados, la ciudad y región en donde trabaja. 
+SELECT *, o.ciudad, region
+FROM empleados e JOIN oficinas o ON e.oficina = o.codOficina;
 
 
 #4) Listar las oficinas con objetivo superior a 3.500€ indicando para cada una de ellas el nombre de 
 #su director. 
+SELECT o.codOficina, ciudad, e.nombre
+FROM oficinas o JOIN directores d USING(codOficina)	JOIN empleados e ON d.codOficina = e.oficina
+WHERE o.objetivo > 3500;
 
 
 #5) Listar las líneas de pedido superiores a 150 €, incluyendo el nombre del empleado que tomó el 
 #pedido y el nombre del cliente que lo solicitó.
+#SELECT
+#FROM lineasPedido lp JOIN pedidos p USING(codPedido) JOIN clientes c USING(codCliente) JOIN empleados e;
 
 
 #6) Hallar los empleados que realizaron su primer pedido el mismo día en que fueron contratados.
+SELECT
+FROM empleados e JOIN pedidos p 
 
 
 #7) Listar los empleados con un sueldo superior al de su jefe; para cada empleado sacar sus datos y el 
