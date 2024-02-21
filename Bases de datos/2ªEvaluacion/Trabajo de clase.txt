@@ -129,3 +129,9 @@
 -Hacer el boletin 2 de empresasABC para hacer JOIN.
 -Terminar la practica en casa y repasar los que no salieron.
 
+ ----------
+|21/02/2024|
+ ----------
+-Correccion de los ejercicios de EmpresasABC.
+-Seguir con los ejercicios en casa.
+
