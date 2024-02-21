@@ -172,3 +172,13 @@
 -Viendo como clonar en la maquina virtual.
 -Abrir con bloc de notas en la VB.
 
+ ----------
+|21/02/2024|
+ ----------
+-Mirar lo de teclado en la maquina virtual.
+-https://www.howtogeek.com/1364/add-any-application-to-the-desktop-right-click-menu-in-vista/
+-El enlace anterior lo estamos utilizando para las maquinas virtuales.
+-HKEY_CLASSES_ROOT\Directory\Background\shell
+-La ruta de arriba se bsuca el el editor de registro.
+-Error por sobreescribir el registro.
+
