@@ -182,3 +182,19 @@
 -Por ultimo hacemos la calse EjMerge.
 -Vimos todos los metodos para ordenar.
 
+ ----------
+|20/02/2024|
+ ----------
+-Puedes usar estos metodos para ordenar cadenas o por edades cuando creas algunas clase tambien.
+-Hacemos el ejemplo de Selection y despues el quicksort.
+-Ejercicio de Examen para hacer.
+
+ ----------
+|21/02/2024|
+ ----------
+-Finalizado el Ejercicio2A donde probamos el metodo burbuja para ordenar numeros positivos y negativos.
+-Creamos la clase MetodosOrdenadmientos donde meteremos todos los metodos para ordenar.
+-Hacemos ahora el Ejercicio2B.
+-Colecciones y diccionarios.
+-Creamos la carpeta DinamicosArrayList donde creamos el Ejemplo1.
+
